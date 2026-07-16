@@ -68,4 +68,4 @@ milaan/evalx/       matching eval harness
 notebooks/          Colab fine-tuning + prediction notebooks
 ```
 
-Built by Prabhakar. Week-by-week build log and PRD in `docs/`.
+Built by Ekta Mishra. Week-by-week build log and PRD in `docs/`.
