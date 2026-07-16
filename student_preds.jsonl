@@ -1,0 +1,1000 @@
+{"text": "DIR=debit | AMT=37851 | NARR=NACH-SBI LIFE-PREMIUM", "pred": "insurance"}
+{"text": "DIR=debit | AMT=6296 | NARR=UPI-VKS PTL-vikas34@okicici-678164279316", "pred": "upi_p2p"}
+{"text": "DIR=credit | AMT=20600 | NARR=CSH DEP-BRANCH-926", "pred": "cash_deposit"}
+{"text": "DIR=credit | AMT=23412 | NARR=IMPS-296003784469-MLHTR CHMCLS", "pred": "sales_receipt"}
+{"text": "DIR=debit | AMT=118 | NARR=PROCESSING FEE-495770", "pred": "bank_charges"}
+{"text": "DIR=credit | AMT=193766 | NARR=CHQ DEP-750945-DAS POLYME", "pred": "sales_receipt"}
+{"text": "DIR=credit | AMT=198900 | NARR=CSH DEP-BRANCH-685", "pred": "cash_deposit"}
+{"text": "DIR=debit | AMT=61221 | NARR=UPI-KLKRN MTRS-kulkarni11@ibl-130687907277-PAYMENT", "pred": "vendor_payment"}
+{"text": "DIR=debit | AMT=45310 | NARR=BILLPAY-SBI LIFE-91092117", "pred": "insurance"}
+{"text": "DIR=debit | AMT=2000 | NARR=ATM WDL-171560-THANE", "pred": "cash_withdrawal"}
+{"text": "DIR=debit | AMT=80507 | NARR=NEFT DR-N466280313-SALARY JAN", "pred": "salary"}
+{"text": "DIR=debit | AMT=11101 | NARR=NACH-HDFC ERGO-PREMIUM", "pred": "insurance"}
+{"text": "DIR=debit | AMT=10000 | NARR=NWD-8869007931", "pred": "cash_withdrawal"}
+{"text": "DIR=debit | AMT=17995 | NARR=UPI-RHN RTH-rohan3@ybl-103104342076-PHONEPE", "pred": "upi_p2p"}
+{"text": "DIR=debit | AMT=53681 | NARR=NEFT DR-N692374111-BHTT TRDRS", "pred": "vendor_payment"}
+{"text": "DIR=debit | AMT=70176 | NARR=NEFT DR-N567057660-STAFF PAYROLL", "pred": "salary"}
+{"text": "DIR=credit | AMT=151281 | NARR=UPI-MEHTA AGE-mehta51@oksbi-565170723838-INV PAYMENT", "pred": "sales_receipt"}
+{"text": "DIR=credit | AMT=8881 | NARR=INTEREST CAPITALISED", "pred": "interest_credit"}
+{"text": "DIR=credit | AMT=34791 | NARR=NEFT CR-N779372673-SHAH EXPORTS", "pred": "sales_receipt"}
+{"text": "DIR=debit | AMT=54900 | NARR=ECS-HDFC BANK LOAN-LOAN 349136", "pred": "loan_emi"}
+{"text": "DIR=credit | AMT=18046 | NARR=UPI-DEEPAK VERMA-deepak44@okicici-799349026100-PAYMENT", "pred": "upi_p2p"}
+{"text": "DIR=debit | AMT=145670 | NARR=GST PMT-49396443031", "pred": "gst_tds_payment"}
+{"text": "DIR=debit | AMT=25169 | NARR=ACH D-TATA CAPITAL-EMI-10796939", "pred": "loan_emi"}
+{"text": "DIR=debit | AMT=179821 | NARR=UPI-DESAI LOGISTICS-desai4@okicici-342842964382-PURCHASE", "pred": "vendor_payment"}
+{"text": "DIR=credit | AMT=98319 | NARR=UPI-GUPTA DISTRIBU-gupta94@okicici-238050509764-COLLECT", "pred": "sales_receipt"}
+{"text": "DIR=debit | AMT=139629 | NARR=RTGS-R943633823-JOSHI BROTHERS", "pred": "vendor_payment"}
+{"text": "DIR=credit | AMT=236721 | NARR=IMPS-213314530787-GHOSH PACKAGI", "pred": "sales_receipt"}
+{"text": "DIR=credit | AMT=58357 | NARR=UPI-TRVD FBRCS-trivedi21@paytm-694835724124-INV PAYMENT", "pred": "sales_receipt"}
+{"text": "DIR=debit | AMT=77673 | NARR=NEFT DR-N864073985-STAFF PAYROLL", "pred": "salary"}
+{"text": "DIR=debit | AMT=320207 | NARR=EPAYMENT-CBIC-GST", "pred": "gst_tds_payment"}
+{"text": "DIR=debit | AMT=11380 | NARR=ECS-TATA CAPITAL-LOAN 362709", "pred": "loan_emi"}
+{"text": "DIR=credit | AMT=3399 | NARR=INTEREST CAPITALISED", "pred": "interest_credit"}
+{"text": "DIR=credit | AMT=90499 | NARR=NEFT CR-N247763756-GHOSH DISTRIBUTORS", "pred": "sales_receipt"}
+{"text": "DIR=credit | AMT=245470 | NARR=IMPS-966968477064-IYER HRDWR", "pred": "sales_receipt"}
+{"text": "DIR=debit | AMT=11748 | NARR=RENT MAR-AJAY VERM", "pred": "rent"}
+{"text": "DIR=debit | AMT=10604 | NARR=NACH-BAJAJ FINANCE-83298513", "pred": "loan_emi"}
+{"text": "DIR=debit | AMT=136635 | NARR=UPI-GHSH WHLSL-ghosh69@paytm-113502163915-PAYMENT", "pred": "vendor_payment"}
+{"text": "DIR=debit | AMT=13479 | NARR=ECS-BAJAJ FINANCE-LOAN 877395", "pred": "loan_emi"}
+{"text": "DIR=credit | AMT=146147 | NARR=UPI-MEHTA HARDWAR-mehta36@paytm-643314761558-PAYMENT", "pred": "sales_receipt"}
+{"text": "DIR=debit | AMT=18551 | NARR=UPI-MEENA NAIR-meena75@okhdfcbank-290628570290-GPAY", "pred": "upi_p2p"}
+{"text": "DIR=credit | AMT=5643 | NARR=SB INT CREDIT", "pred": "interest_credit"}
+{"text": "DIR=credit | AMT=6116 | NARR=CLG-287541", "pred": "other"}
+{"text": "DIR=debit | AMT=168337 | NARR=TDS PAYMENT CBDT-74277245", "pred": "gst_tds_payment"}
+{"text": "DIR=debit | AMT=88686 | NARR=GST PMT-49799268352", "pred": "gst_tds_payment"}
+{"text": "DIR=credit | AMT=135436 | NARR=NEFT CR-N342801244-SXN INDSTRS", "pred": "sales_receipt"}
+{"text": "DIR=credit | AMT=16865 | NARR=UPI-ROHAN PATEL-rohan29@axl-370390590408-PHONEPE", "pred": "upi_p2p"}
+{"text": "DIR=credit | AMT=80990 | NARR=UPI-SAXENA SUPP-saxena76@paytm-254988524753-PAYMENT", "pred": "sales_receipt"}
+{"text": "DIR=credit | AMT=2767 | NARR=UPI-AJAY SHARMA-ajay41@okhdfcbank-899460029063-SENT", "pred": "upi_p2p"}
+{"text": "DIR=debit | AMT=64547 | NARR=NEFT DR-N153691717-ARJUN REDDY SAL", "pred": "salary"}
+{"text": "DIR=credit | AMT=8476 | NARR=BY TRANSFER-21947033", "pred": "other"}
+{"text": "DIR=debit | AMT=93911 | NARR=NEFT DR-N595898861-SALARY OCT", "pred": "salary"}
+{"text": "DIR=debit | AMT=156187 | NARR=RTGS-R434110769-MEHTA STEEL", "pred": "vendor_payment"}
+{"text": "DIR=credit | AMT=58100 | NARR=CDM DEPOSIT-243576", "pred": "cash_deposit"}
+{"text": "DIR=debit | AMT=22877 | NARR=NACH-FULLERTON-68011640", "pred": "loan_emi"}
+{"text": "DIR=debit | AMT=44548 | NARR=NACH-MAX LIFE-PREMIUM", "pred": "insurance"}
+{"text": "DIR=credit | AMT=2217 | NARR=INT.PD. SB ACCOUNT", "pred": "interest_credit"}
+{"text": "DIR=debit | AMT=38772 | NARR=ACH D-STAR HEALTH-97280725", "pred": "insurance"}
+{"text": "DIR=debit | AMT=395535 | NARR=ADVANCE TAX-4160072", "pred": "gst_tds_payment"}
+{"text": "DIR=credit | AMT=17477 | NARR=UPI RET-435883952703-AMAZON", "pred": "refund"}
+{"text": "DIR=credit | AMT=7957 | NARR=FD INT-4734158", "pred": "interest_credit"}
+{"text": "DIR=debit | AMT=340654 | NARR=EPAYMENT-CBIC-GST", "pred": "gst_tds_payment"}
+{"text": "DIR=credit | AMT=8515 | NARR=UPI RET-302237916347-IRCTC", "pred": "refund"}
+{"text": "DIR=debit | AMT=72940 | NARR=NEFT DR-N789276403-ARJUN SHARMA SAL", "pred": "salary"}
+{"text": "DIR=credit | AMT=181879 | NARR=RTGS-R939602878-KHAN DISTRIBUTORS", "pred": "sales_receipt"}
+{"text": "DIR=credit | AMT=172400 | NARR=CSH DEP-BRANCH-306", "pred": "cash_deposit"}
+{"text": "DIR=debit | AMT=817 | NARR=UPI-POOJA DAS-pooja4@ibl-447221625783-PAYMENT", "pred": "upi_p2p"}
+{"text": "DIR=debit | AMT=20628 | NARR=UPI-MEENA IYER-meena9@okhdfcbank-231850084074-SENT", "pred": "upi_p2p"}
+{"text": "DIR=debit | AMT=29851 | NARR=ACH D-ICICI PL-EMI-79745243", "pred": "loan_emi"}
+{"text": "DIR=credit | AMT=23900 | NARR=CDM DEPOSIT-338720", "pred": "cash_deposit"}
+{"text": "DIR=debit | AMT=32826 | NARR=ACH D-ICICI LOMBARD-15549711", "pred": "insurance"}
+{"text": "DIR=credit | AMT=11200 | NARR=CDM DEPOSIT-314222", "pred": "cash_deposit"}
+{"text": "DIR=debit | AMT=15469 | NARR=NACH-TATA CAPITAL-97598949", "pred": "loan_emi"}
+{"text": "DIR=credit | AMT=224120 | NARR=UPI-REDDY POLYME-reddy68@okhdfcbank-992759311082-COLLECT", "pred": "sales_receipt"}
+{"text": "DIR=credit | AMT=17470 | NARR=UPI-DIVYA SHARMA-divya27@ybl-346276543395-PAYMENT", "pred": "upi_p2p"}
+{"text": "DIR=debit | AMT=233220 | NARR=ADVANCE TAX-9798778", "pred": "gst_tds_payment"}
+{"text": "DIR=credit | AMT=2059 | NARR=SB INT CREDIT", "pred": "interest_credit"}
+{"text": "DIR=credit | AMT=22328 | NARR=UPI-AMIT AGARWAL-amit91@okicici-686265585346", "pred": "upi_p2p"}
+{"text": "DIR=debit | AMT=164758 | NARR=RTGS-R444032199-MEHTA ENTERPRISES", "pred": "vendor_payment"}
+{"text": "DIR=debit | AMT=56122 | NARR=NEFT DR-N837775015-SALARY JAN", "pred": "salary"}
+{"text": "DIR=debit | AMT=56614 | NARR=ACH D-HDFC BANK LOAN-EMI-59221290", "pred": "loan_emi"}
+{"text": "DIR=debit | AMT=10224 | NARR=BBPS-JIO FIBER-44859933", "pred": "utility_bill"}
+{"text": "DIR=debit | AMT=20000 | NARR=NWD-5955036334", "pred": "cash_withdrawal"}
+{"text": "DIR=credit | AMT=92700 | NARR=CASH DEP BY SELF", "pred": "cash_deposit"}
+{"text": "DIR=credit | AMT=949 | NARR=UPI-KAVITA VERMA-kavita85@ibl-221781166013", "pred": "upi_p2p"}
+{"text": "DIR=credit | AMT=62498 | NARR=RTGS-R694272037-BANSAL FABRICS", "pred": "sales_receipt"}
+{"text": "DIR=credit | AMT=187522 | NARR=IMPS-771167206969-RATHI TRANSPORT", "pred": "sales_receipt"}
+{"text": "DIR=credit | AMT=214611 | NARR=RTGS-R788511394-RATHI SWEETS", "pred": "sales_receipt"}
+{"text": "DIR=credit | AMT=99694 | NARR=UPI-AGRWL TRDRS-agarwal44@ibl-214667052235-INV PAYMENT", "pred": "sales_receipt"}
+{"text": "DIR=credit | AMT=192 | NARR=INTEREST CAPITALISED", "pred": "interest_credit"}
+{"text": "DIR=debit | AMT=31633 | NARR=NEFT DR-N463324283-SALARY MAR", "pred": "salary"}
+{"text": "DIR=debit | AMT=13144 | NARR=BBPS-JIO FIBER-79234060", "pred": "utility_bill"}
+{"text": "DIR=credit | AMT=193300 | NARR=CDM DEPOSIT-714884", "pred": "cash_deposit"}
+{"text": "DIR=credit | AMT=108998 | NARR=CHQ DEP-938202-REDDY TRADERS", "pred": "sales_receipt"}
+{"text": "DIR=credit | AMT=26641 | NARR=UPI RET-846314748047-AMAZON", "pred": "refund"}
+{"text": "DIR=debit | AMT=7286 | NARR=UPI-SWATI GHOSH-swati64@ibl-317201819927-SENT", "pred": "upi_p2p"}
+{"text": "DIR=debit | AMT=16015 | NARR=NEFT DR-N319362712-OFFICE RENT DEC", "pred": "rent"}
+{"text": "DIR=credit | AMT=16200 | NARR=CASH DEP BY SELF", "pred": "cash_deposit"}
+{"text": "DIR=credit | AMT=227112 | NARR=UPI-KULKARNI LOGISTICS-kulkarni48@axl-631107182451-COLLECT", "pred": "sales_receipt"}
+{"text": "DIR=credit | AMT=9908 | NARR=UPI-SNEHA NAIR-sneha91@oksbi-159467607671-PHONEPE", "pred": "upi_p2p"}
+{"text": "DIR=debit | AMT=6808 | NARR=CLG-507135", "pred": "other"}
+{"text": "DIR=debit | AMT=206601 | NARR=ADVANCE TAX-7444974", "pred": "gst_tds_payment"}
+{"text": "DIR=credit | AMT=57393 | NARR=RTGS-R188736671-AGRWL MRKTNG", "pred": "sales_receipt"}
+{"text": "DIR=credit | AMT=27765 | NARR=REFUND-AMAZON-90338307", "pred": "refund"}
+{"text": "DIR=credit | AMT=26480 | NARR=REV-UPI-181057836655-SWIGGY", "pred": "refund"}
+{"text": "DIR=credit | AMT=48100 | NARR=CASH DEP BY SELF", "pred": "cash_deposit"}
+{"text": "DIR=debit | AMT=174344 | NARR=RTGS-R163419246-SNH DSTRBTRS", "pred": "vendor_payment"}
+{"text": "DIR=debit | AMT=106898 | NARR=ADVANCE TAX-6417564", "pred": "gst_tds_payment"}
+{"text": "DIR=debit | AMT=24633 | NARR=UPI-VIKAS DESAI-682783905148-SHOP RENT", "pred": "rent"}
+{"text": "DIR=debit | AMT=98181 | NARR=UPI-YADAV PAPERS-yadav2@paytm-156693785335-PAYMENT", "pred": "vendor_payment"}
+{"text": "DIR=credit | AMT=10323 | NARR=UPI-AJAY GUPTA-ajay48@okicici-200228007691-PHONEPE", "pred": "upi_p2p"}
+{"text": "DIR=credit | AMT=174976 | NARR=IMPS-503709545916-SXN INDSTRS", "pred": "sales_receipt"}
+{"text": "DIR=debit | AMT=84062 | NARR=NEFT DR-N352685319-POOJA VERMA SAL", "pred": "salary"}
+{"text": "DIR=debit | AMT=17223 | NARR=BILLPAY-BWSSB WATER-ELEC-8008491", "pred": "utility_bill"}
+{"text": "DIR=debit | AMT=50377 | NARR=ECS-BAJAJ FINANCE-LOAN 228288", "pred": "loan_emi"}
+{"text": "DIR=credit | AMT=9248 | NARR=UPI RET-466403478730-IRCTC", "pred": "refund"}
+{"text": "DIR=credit | AMT=77941 | NARR=NEFT CR-N435337654-RDDY ELCTRNCS", "pred": "sales_receipt"}
+{"text": "DIR=debit | AMT=83674 | NARR=UPI-POOJA DAS-324399334657-SHOP RENT", "pred": "rent"}
+{"text": "DIR=debit | AMT=28899 | NARR=NEFT DR-N394364860-STAFF PAYROLL", "pred": "salary"}
+{"text": "DIR=credit | AMT=241928 | NARR=IMPS-604743217364-DS LGSTCS", "pred": "sales_receipt"}
+{"text": "DIR=credit | AMT=7576 | NARR=UPI-ROHAN KULKARNI-rohan63@okhdfcbank-249249247980", "pred": "upi_p2p"}
+{"text": "DIR=debit | AMT=40454 | NARR=NEFT DR-N933206631-NEHA YADAV SAL", "pred": "salary"}
+{"text": "DIR=debit | AMT=24116 | NARR=NEFT DR-N157705340-SALARY JAN", "pred": "salary"}
+{"text": "DIR=debit | AMT=16995 | NARR=POS 232101 CROMA", "pred": "other"}
+{"text": "DIR=credit | AMT=9420 | NARR=UPI RET-564706095026-REDDY FABRICS", "pred": "refund"}
+{"text": "DIR=debit | AMT=51132 | NARR=ADVANCE TAX-4052535", "pred": "gst_tds_payment"}
+{"text": "DIR=credit | AMT=100626 | NARR=NEFT CR-N967104740-CHWL HRDWR", "pred": "sales_receipt"}
+{"text": "DIR=debit | AMT=59995 | NARR=ACH D-MAX LIFE-97411506", "pred": "insurance"}
+{"text": "DIR=debit | AMT=61804 | NARR=RTGS-R461853113-MALHOTRA FOODS", "pred": "vendor_payment"}
+{"text": "DIR=credit | AMT=37277 | NARR=REV-UPI-162660857704-IRCTC", "pred": "refund"}
+{"text": "DIR=debit | AMT=13149 | NARR=BILLPAY-AIRTEL-BILL-2562856", "pred": "utility_bill"}
+{"text": "DIR=debit | AMT=3565 | NARR=UPI-RAHUL GUPTA-rahul41@okicici-303543495195-PAYMENT", "pred": "upi_p2p"}
+{"text": "DIR=credit | AMT=4899 | NARR=CHQ DEP-963290-DAS ENTERPRISES", "pred": "sales_receipt"}
+{"text": "DIR=debit | AMT=1445 | NARR=SWEEP TRF TO FD", "pred": "other"}
+{"text": "DIR=debit | AMT=921 | NARR=UPI-AJAY IYER-ajay70@ibl-964164534831-GPAY", "pred": "upi_p2p"}
+{"text": "DIR=credit | AMT=55200 | NARR=CASH DEP BY SELF", "pred": "cash_deposit"}
+{"text": "DIR=debit | AMT=2171 | NARR=BILLPAY-AIRTEL-ELEC-4842150", "pred": "utility_bill"}
+{"text": "DIR=credit | AMT=170600 | NARR=CSH DEP-BRANCH-114", "pred": "cash_deposit"}
+{"text": "DIR=debit | AMT=126753 | NARR=IMPS-396943410489-TRIVEDI", "pred": "vendor_payment"}
+{"text": "DIR=credit | AMT=13575 | NARR=IMPS-482872021735-SHARMA CHEMICALS", "pred": "sales_receipt"}
+{"text": "DIR=credit | AMT=11736 | NARR=UPI-ANITA SINHA-anita95@ybl-799923048595", "pred": "upi_p2p"}
+{"text": "DIR=debit | AMT=6022 | NARR=ECS-FULLERTON-LOAN 614734", "pred": "loan_emi"}
+{"text": "DIR=credit | AMT=78009 | NARR=NEFT CR-N869446962-SINHA ELECTRONICS", "pred": "sales_receipt"}
+{"text": "DIR=debit | AMT=29 | NARR=PROCESSING FEE-316296", "pred": "bank_charges"}
+{"text": "DIR=debit | AMT=77114 | NARR=IMPS-760031918955-MALHOTRA MARKETING", "pred": "vendor_payment"}
+{"text": "DIR=credit | AMT=7386 | NARR=UPI-RITU MLHTR-ritu45@okhdfcbank-982434773092-PAYMENT", "pred": "sales_receipt"}
+{"text": "DIR=credit | AMT=142180 | NARR=RTGS-R416265870-PATEL BROTHERS", "pred": "sales_receipt"}
+{"text": "DIR=debit | AMT=9672 | NARR=RTGS-R992432275-MHT FDS", "pred": "vendor_payment"}
+{"text": "DIR=credit | AMT=121838 | NARR=IMPS-439259711506-BHATT AGENCI", "pred": "sales_receipt"}
+{"text": "DIR=debit | AMT=83492 | NARR=IMPS-613667857205-CHAWLA SWE", "pred": "vendor_payment"}
+{"text": "DIR=debit | AMT=19828 | NARR=NEFT DR-N399029862-PATEL ENTERPRISES", "pred": "vendor_payment"}
+{"text": "DIR=debit | AMT=2000 | NARR=NWD-6026131917", "pred": "cash_withdrawal"}
+{"text": "DIR=debit | AMT=13667 | NARR=GSTN PAYMENT 53390787", "pred": "gst_tds_payment"}
+{"text": "DIR=credit | AMT=12645 | NARR=UPI-KULKARNI WHOLESALE-kulkarni3@axl-931008547062-INV PAYMENT", "pred": "sales_receipt"}
+{"text": "DIR=debit | AMT=44835 | NARR=ECS-AXIS LOAN-LOAN 749943", "pred": "loan_emi"}
+{"text": "DIR=credit | AMT=38400 | NARR=CDM DEPOSIT-263044", "pred": "cash_deposit"}
+{"text": "DIR=debit | AMT=295505 | NARR=GSTN PAYMENT 85970842", "pred": "gst_tds_payment"}
+{"text": "DIR=debit | AMT=13251 | NARR=UPI-JIO FIBER-jio@ybl-973983848429-BILL", "pred": "utility_bill"}
+{"text": "DIR=credit | AMT=14332 | NARR=NEFT CR-N651323128-GPT WHLSL", "pred": "sales_receipt"}
+{"text": "DIR=debit | AMT=69133 | NARR=NEFT DR-N372773127-PRIYA RATHI SAL", "pred": "salary"}
+{"text": "DIR=credit | AMT=207613 | NARR=CHQ DEP-555566-MEHTA MO", "pred": "sales_receipt"}
+{"text": "DIR=debit | AMT=37927 | NARR=SWEEP TRF TO FD", "pred": "other"}
+{"text": "DIR=debit | AMT=7918 | NARR=UPI-BEST UNDERT-best@ibl-996908505418-BILL", "pred": "utility_bill"}
+{"text": "DIR=credit | AMT=27639 | NARR=UPI-SAXENA EXPOR-saxena71@okicici-251271118815-PAYMENT", "pred": "sales_receipt"}
+{"text": "DIR=credit | AMT=10804 | NARR=IMPS-113833917226-PTL TRDRS", "pred": "sales_receipt"}
+{"text": "DIR=debit | AMT=29 | NARR=PROCESSING FEE-587965", "pred": "bank_charges"}
+{"text": "DIR=debit | AMT=206436 | NARR=ADVANCE TAX-2727684", "pred": "gst_tds_payment"}
+{"text": "DIR=debit | AMT=3009 | NARR=IMPS-353808056208-MALHOTRA SWEETS", "pred": "vendor_payment"}
+{"text": "DIR=debit | AMT=34755 | NARR=IMPS-383850147267-CHAWLA POLYMERS", "pred": "vendor_payment"}
+{"text": "DIR=credit | AMT=29438 | NARR=IMPS REV-857592658832-AMAZON", "pred": "refund"}
+{"text": "DIR=debit | AMT=88383 | NARR=NEFT DR-N252212785-MISHRA MOTOR", "pred": "vendor_payment"}
+{"text": "DIR=credit | AMT=17744 | NARR=CLG-644398", "pred": "other"}
+{"text": "DIR=debit | AMT=141764 | NARR=UPI-DAS TRAN-das31@axl-401326024458-BILL PMT", "pred": "vendor_payment"}
+{"text": "DIR=credit | AMT=232868 | NARR=UPI-PTL ENTRPRSS-patel9@paytm-401081639824-PAYMENT", "pred": "sales_receipt"}
+{"text": "DIR=credit | AMT=127603 | NARR=UPI-DESAI CERAMICS-desai7@ybl-244251357399-PAYMENT", "pred": "sales_receipt"}
+{"text": "DIR=debit | AMT=6377 | NARR=BBPS-BEST UNDERT-79359655", "pred": "utility_bill"}
+{"text": "DIR=debit | AMT=1819 | NARR=BBPS-JIO FIBER-37674480", "pred": "utility_bill"}
+{"text": "DIR=credit | AMT=32598 | NARR=BY TRANSFER-56635173", "pred": "other"}
+{"text": "DIR=debit | AMT=38130 | NARR=ECS-AXIS LOAN-LOAN 629991", "pred": "loan_emi"}
+{"text": "DIR=debit | AMT=164631 | NARR=RTGS-R537190989-MEHTA EXPORTS", "pred": "vendor_payment"}
+{"text": "DIR=debit | AMT=590 | NARR=AMB CHRG INCL GST", "pred": "bank_charges"}
+{"text": "DIR=debit | AMT=55130 | NARR=ACH D-STAR HEALTH-90960611", "pred": "insurance"}
+{"text": "DIR=credit | AMT=115263 | NARR=NEFT CR-N356308622-DESAI AG", "pred": "sales_receipt"}
+{"text": "DIR=debit | AMT=49153 | NARR=RTGS-R209612429-PATEL MOTOR", "pred": "vendor_payment"}
+{"text": "DIR=credit | AMT=1093 | NARR=SWEEP TRF TO FD", "pred": "other"}
+{"text": "DIR=debit | AMT=112360 | NARR=RTGS-R473226993-MISHRA LOGI", "pred": "vendor_payment"}
+{"text": "DIR=debit | AMT=90935 | NARR=NEFT DR-N788079363-STAFF PAYROLL", "pred": "salary"}
+{"text": "DIR=credit | AMT=33511 | NARR=CHQ DEP-497358-PILLAI SWEETS", "pred": "sales_receipt"}
+{"text": "DIR=debit | AMT=41847 | NARR=NEFT DR-N816807711-OFFICE RENT DEC", "pred": "rent"}
+{"text": "DIR=debit | AMT=172499 | NARR=UPI-DAS SWEETS-das70@ibl-441810966659-PAYMENT", "pred": "vendor_payment"}
+{"text": "DIR=debit | AMT=44117 | NARR=ACH D-BAJAJ FINANCE-EMI-33612595", "pred": "loan_emi"}
+{"text": "DIR=debit | AMT=11355 | NARR=EPAYMENT-CBIC-GST", "pred": "gst_tds_payment"}
+{"text": "DIR=debit | AMT=10266 | NARR=BBPS-MSEDCL-60183440", "pred": "utility_bill"}
+{"text": "DIR=credit | AMT=164741 | NARR=UPI-YDV PLYMRS-yadav38@paytm-434081914647-COLLECT", "pred": "sales_receipt"}
+{"text": "DIR=debit | AMT=13376 | NARR=UPI-AMIT BHATT-737642491247-SHOP RENT", "pred": "rent"}
+{"text": "DIR=debit | AMT=16420 | NARR=UPI-BWSSB WATER-bwssb@okicici-882275135300-BILL", "pred": "utility_bill"}
+{"text": "DIR=debit | AMT=39843 | NARR=UPI-MEHTA TRANS-mehta95@okicici-610362120470-PURCHASE", "pred": "vendor_payment"}
+{"text": "DIR=credit | AMT=229555 | NARR=RTGS-R899911185-NAIR CHEMICALS", "pred": "sales_receipt"}
+{"text": "DIR=credit | AMT=166232 | NARR=RTGS-R749018442-VRM CHMCLS", "pred": "sales_receipt"}
+{"text": "DIR=debit | AMT=74230 | NARR=NEFT DR-N978209248-STAFF PAYROLL", "pred": "salary"}
+{"text": "DIR=debit | AMT=6312 | NARR=UPI-SNEHA DESA-sneha68@ibl-716661506527-SENT", "pred": "upi_p2p"}
+{"text": "DIR=debit | AMT=119693 | NARR=RTGS-R419367188-PILLAI STEEL", "pred": "vendor_payment"}
+{"text": "DIR=credit | AMT=174049 | NARR=UPI-IYER CERAMICS-iyer9@okicici-152817321001-COLLECT", "pred": "sales_receipt"}
+{"text": "DIR=debit | AMT=383296 | NARR=GST PMT-34771234810", "pred": "gst_tds_payment"}
+{"text": "DIR=debit | AMT=74026 | NARR=RTGS-R283031056-SAXENA TEXTILES", "pred": "vendor_payment"}
+{"text": "DIR=credit | AMT=55500 | NARR=CASH DEP BY SELF", "pred": "cash_deposit"}
+{"text": "DIR=debit | AMT=39484 | NARR=UPI-POOJA REDDY-638723113605-SHOP RENT", "pred": "rent"}
+{"text": "DIR=debit | AMT=30407 | NARR=NACH-LIC OF INDIA-PREMIUM", "pred": "insurance"}
+{"text": "DIR=debit | AMT=116311 | NARR=UPI-NAIR AGNCS-nair60@axl-955272960359-PAYMENT", "pred": "vendor_payment"}
+{"text": "DIR=credit | AMT=6231 | NARR=UPI-SNEHA PILLAI-sneha54@ybl-470804766595", "pred": "upi_p2p"}
+{"text": "DIR=credit | AMT=2442 | NARR=UPI RET-974052377514-ZOMATO", "pred": "refund"}
+{"text": "DIR=credit | AMT=247258 | NARR=NEFT CR-N862023079-RTH FBRCS", "pred": "sales_receipt"}
+{"text": "DIR=debit | AMT=41149 | NARR=SWEEP TRF TO FD", "pred": "other"}
+{"text": "DIR=credit | AMT=103826 | NARR=RTGS-R488712773-AGRWL PLYMRS", "pred": "sales_receipt"}
+{"text": "DIR=debit | AMT=111231 | NARR=RTGS-R660223249-JSH ENTRPRSS", "pred": "vendor_payment"}
+{"text": "DIR=credit | AMT=10587 | NARR=IMPS REV-849663528987-ZOMATO", "pred": "refund"}
+{"text": "DIR=credit | AMT=5956 | NARR=UPI-NEHA PILLAI-neha24@oksbi-441119619595", "pred": "upi_p2p"}
+{"text": "DIR=credit | AMT=36100 | NARR=CSH DEP-BRANCH-124", "pred": "cash_deposit"}
+{"text": "DIR=credit | AMT=18630 | NARR=UPI-SURESH D-suresh13@okicici-890464184280", "pred": "upi_p2p"}
+{"text": "DIR=debit | AMT=57276 | NARR=ACH D-ICICI LOMBARD-34196785", "pred": "insurance"}
+{"text": "DIR=debit | AMT=30832 | NARR=NEFT DR-N907172140-SALARY OCT", "pred": "salary"}
+{"text": "DIR=debit | AMT=63469 | NARR=NEFT DR-N708457917-REDDY ENTERPRISES", "pred": "vendor_payment"}
+{"text": "DIR=debit | AMT=50688 | NARR=RENT MAY-RHN MHT", "pred": "rent"}
+{"text": "DIR=credit | AMT=42051 | NARR=IMPS REV-728908987186-AMAZON", "pred": "refund"}
+{"text": "DIR=credit | AMT=231241 | NARR=CHQ DEP-453123-BANSAL EXPORTS", "pred": "sales_receipt"}
+{"text": "DIR=debit | AMT=107791 | NARR=IMPS-988846107440-SHARMA SWEETS", "pred": "vendor_payment"}
+{"text": "DIR=credit | AMT=12652 | NARR=UPI-ANT PLL-anita53@paytm-561998819980-PAYMENT", "pred": "sales_receipt"}
+{"text": "DIR=debit | AMT=9424 | NARR=BILLPAY-ADANI ELEC-RECHARGE-1963952", "pred": "utility_bill"}
+{"text": "DIR=debit | AMT=5000 | NARR=NWD-7116025580", "pred": "cash_withdrawal"}
+{"text": "DIR=credit | AMT=23953 | NARR=UPI-CHWL HRDWR-chawla8@oksbi-726541280440-PAYMENT", "pred": "sales_receipt"}
+{"text": "DIR=debit | AMT=43106 | NARR=NEFT DR-N252078773-IYER DISTRIBUTORS", "pred": "vendor_payment"}
+{"text": "DIR=credit | AMT=20878 | NARR=UPI-TRIVEDI CERAMICS-trivedi98@ibl-718626452951-COLLECT", "pred": "sales_receipt"}
+{"text": "DIR=debit | AMT=31777 | NARR=NACH-ICICI PL-81855018", "pred": "loan_emi"}
+{"text": "DIR=credit | AMT=6947 | NARR=IMPS REV-517095911704-AMAZON", "pred": "refund"}
+{"text": "DIR=debit | AMT=45029 | NARR=NEFT DR-N738662864-OFFICE RENT OCT", "pred": "rent"}
+{"text": "DIR=credit | AMT=41966 | NARR=REV-UPI-571765321768-ZOMATO", "pred": "refund"}
+{"text": "DIR=debit | AMT=10907 | NARR=BBPS-MAHANAGAR GAS-57388408", "pred": "utility_bill"}
+{"text": "DIR=debit | AMT=35072 | NARR=RTGS-R430664892-KHAN TRADERS", "pred": "vendor_payment"}
+{"text": "DIR=debit | AMT=6770 | NARR=BBPS-BEST UNDERT-33858591", "pred": "utility_bill"}
+{"text": "DIR=debit | AMT=159733 | NARR=IMPS-384823892438-SINHA PAP", "pred": "vendor_payment"}
+{"text": "DIR=debit | AMT=14917 | NARR=UPI-ANITA BHATT-anita81@okhdfcbank-889835506094-PHONEPE", "pred": "upi_p2p"}
+{"text": "DIR=credit | AMT=24318 | NARR=REFUND-ZOMATO-68037647", "pred": "refund"}
+{"text": "DIR=debit | AMT=119709 | NARR=UPI-JOSHI TRADERS-joshi24@ybl-510831002097-PURCHASE", "pred": "vendor_payment"}
+{"text": "DIR=credit | AMT=149124 | NARR=RTGS-R712742402-REDDY PRINTERS", "pred": "sales_receipt"}
+{"text": "DIR=credit | AMT=10109 | NARR=UPI-AJAY NAI-ajay30@ybl-528011487068-GPAY", "pred": "upi_p2p"}
+{"text": "DIR=credit | AMT=2200 | NARR=CASH DEP BY SELF", "pred": "cash_deposit"}
+{"text": "DIR=debit | AMT=37384 | NARR=CLG-363819", "pred": "other"}
+{"text": "DIR=credit | AMT=7201 | NARR=INT.PD. SB ACCOUNT", "pred": "interest_credit"}
+{"text": "DIR=debit | AMT=133738 | NARR=RTGS-R288105449-DS PRNTRS", "pred": "vendor_payment"}
+{"text": "DIR=debit | AMT=7040 | NARR=BBPS-AIRTEL-91824433", "pred": "utility_bill"}
+{"text": "DIR=debit | AMT=165189 | NARR=UPI-MSHR FDS-mishra29@okhdfcbank-889679654352-PURCHASE", "pred": "vendor_payment"}
+{"text": "DIR=credit | AMT=128010 | NARR=RTGS-R571239963-SHAH BROTHERS", "pred": "sales_receipt"}
+{"text": "DIR=debit | AMT=41331 | NARR=UPI-DAS EXPRTS-das24@ybl-180031754043-BILL PMT", "pred": "vendor_payment"}
+{"text": "DIR=credit | AMT=17995 | NARR=UPI RET-977964707331-AMAZON", "pred": "refund"}
+{"text": "DIR=debit | AMT=45040 | NARR=NEFT DR-N978681319-BHATT STEEL", "pred": "vendor_payment"}
+{"text": "DIR=credit | AMT=2973 | NARR=SB INT CREDIT", "pred": "interest_credit"}
+{"text": "DIR=credit | AMT=89999 | NARR=UPI-IYER ENTERPRISES-iyer67@ibl-120002245375-COLLECT", "pred": "sales_receipt"}
+{"text": "DIR=debit | AMT=52994 | NARR=ACH D-LIC OF INDIA-24178065", "pred": "insurance"}
+{"text": "DIR=credit | AMT=49677 | NARR=UPI-MSHR BRTHRS-mishra57@oksbi-445076889804-PAYMENT", "pred": "sales_receipt"}
+{"text": "DIR=credit | AMT=227249 | NARR=UPI-NAIR TRANSPORT-nair60@ibl-236675311844-PAYMENT", "pred": "sales_receipt"}
+{"text": "DIR=debit | AMT=129061 | NARR=UPI-AGARWAL PAPE-agarwal43@ibl-956867554716-PAYMENT", "pred": "vendor_payment"}
+{"text": "DIR=credit | AMT=247535 | NARR=NEFT CR-N790754201-SINHA INDUSTRIES", "pred": "sales_receipt"}
+{"text": "DIR=debit | AMT=89807 | NARR=EPAYMENT-CBIC-GST", "pred": "gst_tds_payment"}
+{"text": "DIR=credit | AMT=13730 | NARR=CHQ DEP-352382-SXN STL", "pred": "sales_receipt"}
+{"text": "DIR=credit | AMT=183982 | NARR=IMPS-613542469432-DAS MARKETING", "pred": "sales_receipt"}
+{"text": "DIR=debit | AMT=10324 | NARR=ECS-AXIS LOAN-LOAN 464338", "pred": "loan_emi"}
+{"text": "DIR=credit | AMT=182369 | NARR=CHQ DEP-394895-YADAV LOGISTI", "pred": "sales_receipt"}
+{"text": "DIR=debit | AMT=24170 | NARR=NACH-FULLERTON-91458283", "pred": "loan_emi"}
+{"text": "DIR=credit | AMT=37999 | NARR=REFUND-SWIGGY-79656603", "pred": "refund"}
+{"text": "DIR=debit | AMT=23315 | NARR=IMPS-457770915152-GPT FBRCS", "pred": "vendor_payment"}
+{"text": "DIR=credit | AMT=130242 | NARR=UPI-PLL WHLSL-pillai26@ibl-844513271080-INV PAYMENT", "pred": "sales_receipt"}
+{"text": "DIR=debit | AMT=82429 | NARR=RTGS-R374795014-DESAI POLYMERS", "pred": "vendor_payment"}
+{"text": "DIR=debit | AMT=20348 | NARR=ACH D-AXIS LOAN-EMI-76979618", "pred": "loan_emi"}
+{"text": "DIR=credit | AMT=20100 | NARR=RTGS-R646332819-KLKRN WHLSL", "pred": "sales_receipt"}
+{"text": "DIR=debit | AMT=53446 | NARR=NEFT DR-N622574029-DEEPAK REDDY SAL", "pred": "salary"}
+{"text": "DIR=debit | AMT=54134 | NARR=ACH D-HDFC BANK LOAN-EMI-66194219", "pred": "loan_emi"}
+{"text": "DIR=debit | AMT=172077 | NARR=UPI-GUPTA POLYM-gupta64@ybl-230206492808-PURCHASE", "pred": "vendor_payment"}
+{"text": "DIR=credit | AMT=187349 | NARR=IMPS-198215180681-SHRM PRNTRS", "pred": "sales_receipt"}
+{"text": "DIR=debit | AMT=56222 | NARR=SAL-KAVITA SINHA SAL-28411776", "pred": "salary"}
+{"text": "DIR=credit | AMT=9661 | NARR=NEFT CR-N346103848-JOSHI WHOLES", "pred": "sales_receipt"}
+{"text": "DIR=debit | AMT=590 | NARR=DEBIT CARD AMC", "pred": "bank_charges"}
+{"text": "DIR=credit | AMT=192292 | NARR=IMPS-976623647696-SHARMA POLYMERS", "pred": "sales_receipt"}
+{"text": "DIR=debit | AMT=10399 | NARR=RTGS-R371993587-PATEL FOOD", "pred": "vendor_payment"}
+{"text": "DIR=credit | AMT=85041 | NARR=UPI-KLKRN ENTRPRSS-kulkarni50@okhdfcbank-346423373551-PAYMENT", "pred": "sales_receipt"}
+{"text": "DIR=credit | AMT=14153 | NARR=UPI-SWATI TRIVEDI-swati93@ybl-523317540589", "pred": "upi_p2p"}
+{"text": "DIR=credit | AMT=97742 | NARR=RTGS-R401647105-PILLAI PRINTERS", "pred": "sales_receipt"}
+{"text": "DIR=debit | AMT=52446 | NARR=ADVANCE TAX-5171653", "pred": "gst_tds_payment"}
+{"text": "DIR=debit | AMT=500 | NARR=NWD-1442628554", "pred": "cash_withdrawal"}
+{"text": "DIR=debit | AMT=27729 | NARR=BILLPAY-MAX LIFE-39890245", "pred": "insurance"}
+{"text": "DIR=debit | AMT=22526 | NARR=UPI-AMIT BNSL-amit27@axl-904887922915-PAYMENT", "pred": "upi_p2p"}
+{"text": "DIR=credit | AMT=191582 | NARR=CHQ DEP-626375-TRVD ENTRPRSS", "pred": "sales_receipt"}
+{"text": "DIR=debit | AMT=58276 | NARR=ACH D-LIC OF INDIA-18211636", "pred": "insurance"}
+{"text": "DIR=debit | AMT=40000 | NARR=NWD-7962540305", "pred": "cash_withdrawal"}
+{"text": "DIR=debit | AMT=8499 | NARR=UPI-SURESH CHAWLA-suresh33@paytm-183971836949-SENT", "pred": "upi_p2p"}
+{"text": "DIR=credit | AMT=77285 | NARR=UPI-SINHA SWEETS-sinha87@ybl-535234368275-COLLECT", "pred": "sales_receipt"}
+{"text": "DIR=debit | AMT=12699 | NARR=UPI-VIKAS NAIR-vikas50@paytm-127316377535-GPAY", "pred": "upi_p2p"}
+{"text": "DIR=debit | AMT=590 | NARR=PROCESSING FEE-403941", "pred": "bank_charges"}
+{"text": "DIR=credit | AMT=105513 | NARR=CHQ DEP-396392-GUPTA TEXT", "pred": "sales_receipt"}
+{"text": "DIR=debit | AMT=165434 | NARR=NEFT DR-N922961300-BANSAL PACKAGING", "pred": "vendor_payment"}
+{"text": "DIR=debit | AMT=18806 | NARR=RENT JAN-ARJUN CHOPRA", "pred": "rent"}
+{"text": "DIR=debit | AMT=34262 | NARR=UPI-RAHUL MEHTA-316181864713-SHOP RENT", "pred": "rent"}
+{"text": "DIR=credit | AMT=66119 | NARR=NEFT CR-N209163516-MEHTA PA", "pred": "sales_receipt"}
+{"text": "DIR=debit | AMT=87678 | NARR=RENT JUN-RITU SHARMA", "pred": "rent"}
+{"text": "DIR=debit | AMT=2749 | NARR=BILLPAY-TATA POWER-RECHARGE-4386928", "pred": "utility_bill"}
+{"text": "DIR=credit | AMT=1396 | NARR=SB INT CREDIT", "pred": "interest_credit"}
+{"text": "DIR=credit | AMT=41414 | NARR=RTGS-R506263610-YADAV PRIN", "pred": "sales_receipt"}
+{"text": "DIR=debit | AMT=43693 | NARR=IMPS-250650380554-CHAWLA POLYMERS", "pred": "vendor_payment"}
+{"text": "DIR=credit | AMT=77120 | NARR=NEFT CR-N265643247-MHT LGSTCS", "pred": "sales_receipt"}
+{"text": "DIR=debit | AMT=2001 | NARR=UPI-ANITA SHARMA-anita67@ybl-532803625671-PAYMENT", "pred": "upi_p2p"}
+{"text": "DIR=debit | AMT=7686 | NARR=BILLPAY-MSEDCL-BILL-8276632", "pred": "utility_bill"}
+{"text": "DIR=credit | AMT=182452 | NARR=UPI-PILLAI PRINTERS-pillai20@oksbi-389538605995-PAYMENT", "pred": "sales_receipt"}
+{"text": "DIR=debit | AMT=1756 | NARR=UPI-RITU SHA-ritu31@oksbi-489052500525", "pred": "upi_p2p"}
+{"text": "DIR=credit | AMT=102360 | NARR=IMPS-607114561227-PILLAI AGENC", "pred": "sales_receipt"}
+{"text": "DIR=debit | AMT=20533 | NARR=UPI-KAVITA MEHTA-kavita14@paytm-596722577508-PAYMENT", "pred": "upi_p2p"}
+{"text": "DIR=credit | AMT=10443 | NARR=SWEEP TRF TO FD", "pred": "other"}
+{"text": "DIR=credit | AMT=112439 | NARR=NEFT CR-N301465409-MHT TXTLS", "pred": "sales_receipt"}
+{"text": "DIR=credit | AMT=56484 | NARR=IMPS-629564237449-BHATT LOGI", "pred": "sales_receipt"}
+{"text": "DIR=credit | AMT=109200 | NARR=CSH DEP-BRANCH-664", "pred": "cash_deposit"}
+{"text": "DIR=debit | AMT=100630 | NARR=EPAYMENT-CBIC-GST", "pred": "gst_tds_payment"}
+{"text": "DIR=credit | AMT=4239 | NARR=INTEREST CAPITALISED", "pred": "interest_credit"}
+{"text": "DIR=debit | AMT=35916 | NARR=BILLPAY-LIC OF INDIA-56685813", "pred": "insurance"}
+{"text": "DIR=debit | AMT=8218 | NARR=BILLPAY-MAHANAGAR GAS-ELEC-2808544", "pred": "utility_bill"}
+{"text": "DIR=credit | AMT=120636 | NARR=UPI-CHAWLA EXPOR-chawla47@ybl-185228871277-COLLECT", "pred": "sales_receipt"}
+{"text": "DIR=debit | AMT=1945 | NARR=NEFT DR-N820691942-BNSL PPRS", "pred": "vendor_payment"}
+{"text": "DIR=debit | AMT=48860 | NARR=ACH D-TATA CAPITAL-EMI-24109165", "pred": "loan_emi"}
+{"text": "DIR=debit | AMT=204524 | NARR=GST PMT-39570580678", "pred": "gst_tds_payment"}
+{"text": "DIR=credit | AMT=203341 | NARR=NEFT CR-N584270509-JOSHI DIST", "pred": "sales_receipt"}
+{"text": "DIR=credit | AMT=65777 | NARR=UPI-SHARMA PAPERS-sharma59@ybl-967188925866-INV PAYMENT", "pred": "sales_receipt"}
+{"text": "DIR=debit | AMT=227799 | NARR=GSTN PAYMENT 52704968", "pred": "gst_tds_payment"}
+{"text": "DIR=credit | AMT=158751 | NARR=IMPS-207198237801-DAS LOGISTICS", "pred": "sales_receipt"}
+{"text": "DIR=debit | AMT=303646 | NARR=GST PMT-90552016394", "pred": "gst_tds_payment"}
+{"text": "DIR=debit | AMT=29357 | NARR=IMPS-242177098494-TRVD FBRCS", "pred": "vendor_payment"}
+{"text": "DIR=debit | AMT=65755 | NARR=RTGS-R854140574-JOSHI PRINTER", "pred": "vendor_payment"}
+{"text": "DIR=credit | AMT=26486 | NARR=UPI RET-254114889758-AMAZON", "pred": "refund"}
+{"text": "DIR=debit | AMT=13851 | NARR=BILLPAY-STAR HEALTH-70766419", "pred": "insurance"}
+{"text": "DIR=debit | AMT=26103 | NARR=BILLPAY-STAR HEALTH-49182187", "pred": "insurance"}
+{"text": "DIR=debit | AMT=11215 | NARR=BILLPAY-JIO FIBER-BILL-5516849", "pred": "utility_bill"}
+{"text": "DIR=debit | AMT=124637 | NARR=RTGS-R454650074-PILLAI AGENCIES", "pred": "vendor_payment"}
+{"text": "DIR=debit | AMT=133773 | NARR=GST PMT-70221212649", "pred": "gst_tds_payment"}
+{"text": "DIR=debit | AMT=53003 | NARR=BILLPAY-ICICI LOMBARD-58945053", "pred": "insurance"}
+{"text": "DIR=debit | AMT=19194 | NARR=UPI-SNJY IYER-940234789479-SHOP RENT", "pred": "rent"}
+{"text": "DIR=credit | AMT=10199 | NARR=CHQ DEP-278928-VERMA SUPPLIERS", "pred": "sales_receipt"}
+{"text": "DIR=debit | AMT=318985 | NARR=TDS PAYMENT CBDT-95523296", "pred": "gst_tds_payment"}
+{"text": "DIR=credit | AMT=8056 | NARR=INTEREST CAPITALISED", "pred": "interest_credit"}
+{"text": "DIR=debit | AMT=91494 | NARR=EPAYMENT-CBIC-GST", "pred": "gst_tds_payment"}
+{"text": "DIR=debit | AMT=16078 | NARR=BILLPAY-TATA POWER-BILL-4701989", "pred": "utility_bill"}
+{"text": "DIR=credit | AMT=421 | NARR=UPI-RHN KHAN-rohan73@paytm-505182212741-PAYMENT", "pred": "upi_p2p"}
+{"text": "DIR=credit | AMT=20284 | NARR=UPI-SURESH YADAV-suresh88@okicici-535257833730-PHONEPE", "pred": "upi_p2p"}
+{"text": "DIR=debit | AMT=4192 | NARR=UPI-SURESH KHAN-suresh69@ibl-511924104045-PAYMENT", "pred": "upi_p2p"}
+{"text": "DIR=credit | AMT=234193 | NARR=CHQ DEP-979668-JOSHI EXPORTS", "pred": "sales_receipt"}
+{"text": "DIR=debit | AMT=4594 | NARR=NACH-ICICI PL-32288407", "pred": "loan_emi"}
+{"text": "DIR=credit | AMT=64497 | NARR=NEFT CR-N904611330-GHOSH FABRICS", "pred": "sales_receipt"}
+{"text": "DIR=debit | AMT=53942 | NARR=NACH-LIC OF INDIA-PREMIUM", "pred": "insurance"}
+{"text": "DIR=debit | AMT=31605 | NARR=NEFT DR-N706570606-STAFF PAYROLL", "pred": "salary"}
+{"text": "DIR=debit | AMT=13105 | NARR=NACH-FULLERTON-50724790", "pred": "loan_emi"}
+{"text": "DIR=debit | AMT=10462 | NARR=BBPS-JIO FIBER-20525679", "pred": "utility_bill"}
+{"text": "DIR=debit | AMT=346295 | NARR=ADVANCE TAX-1380237", "pred": "gst_tds_payment"}
+{"text": "DIR=credit | AMT=60300 | NARR=CASH DEP BY SELF", "pred": "cash_deposit"}
+{"text": "DIR=debit | AMT=51595 | NARR=UPI-POOJA CHOPRA-845886648507-SHOP RENT", "pred": "rent"}
+{"text": "DIR=debit | AMT=307523 | NARR=GSTN PAYMENT 74510462", "pred": "gst_tds_payment"}
+{"text": "DIR=credit | AMT=19301 | NARR=REV-UPI-113827615767-AMAZON", "pred": "refund"}
+{"text": "DIR=credit | AMT=237455 | NARR=IMPS-975249625097-GHOSH DIS", "pred": "sales_receipt"}
+{"text": "DIR=debit | AMT=42105 | NARR=ACH D-BAJAJ FINANCE-EMI-17391979", "pred": "loan_emi"}
+{"text": "DIR=credit | AMT=65092 | NARR=CHQ DEP-445430-SHRM STL", "pred": "sales_receipt"}
+{"text": "DIR=credit | AMT=1544 | NARR=RTGS-R689590340-VERMA CERAMICS", "pred": "sales_receipt"}
+{"text": "DIR=credit | AMT=464 | NARR=INTEREST CAPITALISED", "pred": "interest_credit"}
+{"text": "DIR=credit | AMT=5448 | NARR=UPI-DEEPAK RATHI-deepak78@okicici-389199401750", "pred": "upi_p2p"}
+{"text": "DIR=credit | AMT=6146 | NARR=INT.PD. SB ACCOUNT", "pred": "interest_credit"}
+{"text": "DIR=debit | AMT=6419 | NARR=UPI-RAHUL GUPTA-rahul36@ibl-911181268876-PHONEPE", "pred": "upi_p2p"}
+{"text": "DIR=debit | AMT=2964 | NARR=BBPS-MAHANAGAR GAS-75762341", "pred": "utility_bill"}
+{"text": "DIR=credit | AMT=244965 | NARR=IMPS-865562443594-SHAH CHEMICALS", "pred": "sales_receipt"}
+{"text": "DIR=credit | AMT=38301 | NARR=REV-UPI-970395506657-MYNTRA", "pred": "refund"}
+{"text": "DIR=credit | AMT=5077 | NARR=INT.PD. SB ACCOUNT", "pred": "interest_credit"}
+{"text": "DIR=debit | AMT=25075 | NARR=UPI-AJAY SHAH-192496960853-SHOP RENT", "pred": "rent"}
+{"text": "DIR=credit | AMT=13337 | NARR=UPI-MANISH IYER-manish76@okicici-733330295264-GPAY", "pred": "upi_p2p"}
+{"text": "DIR=debit | AMT=25783 | NARR=DD ISSUE", "pred": "other"}
+{"text": "DIR=debit | AMT=1856 | NARR=UPI-SANJAY IYER-sanjay4@paytm-292946752385-GPAY", "pred": "upi_p2p"}
+{"text": "DIR=credit | AMT=146699 | NARR=UPI-AGARWAL WHOLESALE-agarwal36@paytm-566491621914-INV PAYMENT", "pred": "sales_receipt"}
+{"text": "DIR=debit | AMT=82678 | NARR=RENT SEP-PRIYA CHAWLA", "pred": "rent"}
+{"text": "DIR=debit | AMT=449 | NARR=UPI-MANISH CHAWLA-manish13@okicici-911603536334", "pred": "upi_p2p"}
+{"text": "DIR=debit | AMT=7316 | NARR=BBPS-ADANI ELEC-16186912", "pred": "utility_bill"}
+{"text": "DIR=credit | AMT=125529 | NARR=IMPS-345175936629-VERMA STEEL", "pred": "sales_receipt"}
+{"text": "DIR=credit | AMT=179637 | NARR=NEFT CR-N258404085-SAXENA DISTRIBUTORS", "pred": "sales_receipt"}
+{"text": "DIR=debit | AMT=62898 | NARR=IMPS-358247165182-BHATT ELECTRONICS", "pred": "vendor_payment"}
+{"text": "DIR=credit | AMT=181620 | NARR=UPI-BANSAL ENTERPRISES-bansal45@ybl-475848169368-PAYMENT", "pred": "sales_receipt"}
+{"text": "DIR=credit | AMT=94944 | NARR=NEFT CR-N249671593-MALHOTRA EXPO", "pred": "sales_receipt"}
+{"text": "DIR=debit | AMT=53346 | NARR=ACH D-STAR HEALTH-14963880", "pred": "insurance"}
+{"text": "DIR=debit | AMT=178834 | NARR=ADVANCE TAX-6668862", "pred": "gst_tds_payment"}
+{"text": "DIR=credit | AMT=17961 | NARR=CHQ DEP-211038-JOSHI ENTERPRISES", "pred": "sales_receipt"}
+{"text": "DIR=debit | AMT=57478 | NARR=NEFT DR-N832176438-CHPR HRDWR", "pred": "vendor_payment"}
+{"text": "DIR=debit | AMT=49593 | NARR=ACH D-FULLERTON-EMI-66433510", "pred": "loan_emi"}
+{"text": "DIR=debit | AMT=37719 | NARR=NACH-SBI LIFE-PREMIUM", "pred": "insurance"}
+{"text": "DIR=credit | AMT=75697 | NARR=UPI-MALHOTRA POL-malhotra38@ibl-870610043814-COLLECT", "pred": "sales_receipt"}
+{"text": "DIR=credit | AMT=33667 | NARR=SWEEP TRF TO FD", "pred": "other"}
+{"text": "DIR=debit | AMT=1728 | NARR=UPI-MNSH GHSH-manish87@axl-645067071879-PAYMENT", "pred": "upi_p2p"}
+{"text": "DIR=credit | AMT=124500 | NARR=CASH DEP BY SELF", "pred": "cash_deposit"}
+{"text": "DIR=credit | AMT=7683 | NARR=INT.PD. SB ACCOUNT", "pred": "interest_credit"}
+{"text": "DIR=credit | AMT=247737 | NARR=IMPS-770000894144-PATEL FOO", "pred": "sales_receipt"}
+{"text": "DIR=credit | AMT=124364 | NARR=RTGS-R182051590-GHOSH PA", "pred": "sales_receipt"}
+{"text": "DIR=debit | AMT=137288 | NARR=UPI-TRIVEDI AGENCIES-trivedi89@oksbi-505692187441-PURCHASE", "pred": "vendor_payment"}
+{"text": "DIR=credit | AMT=236411 | NARR=NEFT CR-N667662066-SINHA ELECTRONICS", "pred": "sales_receipt"}
+{"text": "DIR=debit | AMT=83765 | NARR=UPI-JSH PLYMRS-joshi63@paytm-870408491630-PAYMENT", "pred": "vendor_payment"}
+{"text": "DIR=debit | AMT=155606 | NARR=IMPS-860415181072-PATEL PAPERS", "pred": "vendor_payment"}
+{"text": "DIR=credit | AMT=92763 | NARR=UPI-RATHI FABRICS-rathi73@axl-466801906325-INV PAYMENT", "pred": "sales_receipt"}
+{"text": "DIR=debit | AMT=39750 | NARR=RENT SEP-MEENA KULKARNI", "pred": "rent"}
+{"text": "DIR=debit | AMT=93297 | NARR=RTGS-R895758457-TRIVEDI HARDWARE", "pred": "vendor_payment"}
+{"text": "DIR=credit | AMT=97600 | NARR=CDM DEPOSIT-779438", "pred": "cash_deposit"}
+{"text": "DIR=debit | AMT=17466 | NARR=BILLPAY-JIO FIBER-BILL-8629838", "pred": "utility_bill"}
+{"text": "DIR=debit | AMT=28454 | NARR=RENT SEP-MEENA BANSAL", "pred": "rent"}
+{"text": "DIR=debit | AMT=18951 | NARR=NEFT DR-N604410865-PRIYA YADAV SAL", "pred": "salary"}
+{"text": "DIR=credit | AMT=3087 | NARR=SB INT CREDIT", "pred": "interest_credit"}
+{"text": "DIR=debit | AMT=236 | NARR=AMB CHRG INCL GST", "pred": "bank_charges"}
+{"text": "DIR=credit | AMT=26734 | NARR=REV-UPI-434844426844-AMAZON", "pred": "refund"}
+{"text": "DIR=credit | AMT=70899 | NARR=IMPS-488263113347-BHATT HARDWARE", "pred": "sales_receipt"}
+{"text": "DIR=debit | AMT=9856 | NARR=BBPS-ADANI ELEC-48340397", "pred": "utility_bill"}
+{"text": "DIR=credit | AMT=8185 | NARR=FD INT-7608160", "pred": "interest_credit"}
+{"text": "DIR=credit | AMT=7474 | NARR=SB INT CREDIT", "pred": "interest_credit"}
+{"text": "DIR=debit | AMT=55367 | NARR=RTGS-R408732497-DESAI EXPORTS", "pred": "vendor_payment"}
+{"text": "DIR=debit | AMT=27706 | NARR=ACH D-LIC OF INDIA-62019290", "pred": "insurance"}
+{"text": "DIR=debit | AMT=56986 | NARR=RTGS-R246330198-GHSH MRKTNG", "pred": "vendor_payment"}
+{"text": "DIR=debit | AMT=3599 | NARR=UPI-CHOPRA INDUST-chopra43@paytm-241868670241-BILL PMT", "pred": "vendor_payment"}
+{"text": "DIR=credit | AMT=86666 | NARR=CHQ DEP-839943-SINHA PACKAGING", "pred": "sales_receipt"}
+{"text": "DIR=debit | AMT=21299 | NARR=NACH-MAX LIFE-PREMIUM", "pred": "insurance"}
+{"text": "DIR=debit | AMT=23618 | NARR=NEFT DR-N754235618-OFFICE RENT AUG", "pred": "rent"}
+{"text": "DIR=credit | AMT=20392 | NARR=UPI-VIKAS SHARMA-vikas14@ybl-263393262501", "pred": "upi_p2p"}
+{"text": "DIR=credit | AMT=98962 | NARR=NEFT CR-N611214253-MALHOTRA LOGIS", "pred": "sales_receipt"}
+{"text": "DIR=credit | AMT=25635 | NARR=RTGS-R957562163-BHATT DISTRIBUTORS", "pred": "sales_receipt"}
+{"text": "DIR=debit | AMT=63491 | NARR=NEFT DR-N466990085-SALARY MAR", "pred": "salary"}
+{"text": "DIR=debit | AMT=41954 | NARR=SWEEP TRF TO FD", "pred": "other"}
+{"text": "DIR=debit | AMT=4425 | NARR=UPI-AJAY SHAH-ajay90@okhdfcbank-280824727634-SENT", "pred": "upi_p2p"}
+{"text": "DIR=debit | AMT=58189 | NARR=NEFT DR-N493551454-SNEHA KHAN SAL", "pred": "salary"}
+{"text": "DIR=debit | AMT=7954 | NARR=UPI-PRIYA CHOPRA-priya33@paytm-995060160205-SENT", "pred": "upi_p2p"}
+{"text": "DIR=debit | AMT=31807 | NARR=NEFT DR-N442706848-REDDY SWEETS", "pred": "vendor_payment"}
+{"text": "DIR=credit | AMT=197957 | NARR=RTGS-R126924703-JOSHI INDUSTRIES", "pred": "sales_receipt"}
+{"text": "DIR=debit | AMT=58390 | NARR=NACH-SBI LIFE-PREMIUM", "pred": "insurance"}
+{"text": "DIR=debit | AMT=2051 | NARR=BILLPAY-ADANI ELEC-BILL-8611907", "pred": "utility_bill"}
+{"text": "DIR=credit | AMT=172309 | NARR=UPI-SHAH TRANSPORT-shah83@oksbi-326248978305-INV PAYMENT", "pred": "sales_receipt"}
+{"text": "DIR=credit | AMT=734 | NARR=FD INT-3738326", "pred": "interest_credit"}
+{"text": "DIR=credit | AMT=23141 | NARR=UPI-RAHUL PATEL-rahul78@paytm-731428479197", "pred": "upi_p2p"}
+{"text": "DIR=credit | AMT=137122 | NARR=NEFT CR-N830261466-NAIR PRI", "pred": "sales_receipt"}
+{"text": "DIR=debit | AMT=10384 | NARR=UPI-DIVYA MALHOTRA-divya5@axl-237672309567", "pred": "upi_p2p"}
+{"text": "DIR=debit | AMT=5000 | NARR=ATM WDL-847432-PUNE", "pred": "cash_withdrawal"}
+{"text": "DIR=credit | AMT=936 | NARR=FD INT-8125430", "pred": "interest_credit"}
+{"text": "DIR=debit | AMT=53644 | NARR=NEFT DR-N316634602-OFFICE RENT DEC", "pred": "rent"}
+{"text": "DIR=debit | AMT=7217 | NARR=ACH D-HDFC BANK LOAN-EMI-76634925", "pred": "loan_emi"}
+{"text": "DIR=credit | AMT=3108 | NARR=INT.PD. SB ACCOUNT", "pred": "interest_credit"}
+{"text": "DIR=debit | AMT=10000 | NARR=NWD-6495259434", "pred": "cash_withdrawal"}
+{"text": "DIR=credit | AMT=2099 | NARR=UPI-RAHUL SHAH-rahul40@okicici-245018343217-SENT", "pred": "upi_p2p"}
+{"text": "DIR=debit | AMT=15716 | NARR=BILLPAY-MAHANAGAR GAS-RECHARGE-2760154", "pred": "utility_bill"}
+{"text": "DIR=debit | AMT=154127 | NARR=NEFT DR-N191959921-CHOPRA EXPORTS", "pred": "vendor_payment"}
+{"text": "DIR=credit | AMT=8360 | NARR=UPI RET-231335711380-MYNTRA", "pred": "refund"}
+{"text": "DIR=debit | AMT=4534 | NARR=UPI-NEHA PILLAI-neha12@okhdfcbank-505547703587-GPAY", "pred": "upi_p2p"}
+{"text": "DIR=debit | AMT=10313 | NARR=NACH-TATA CAPITAL-57928005", "pred": "loan_emi"}
+{"text": "DIR=credit | AMT=30589 | NARR=REV-UPI-354017756402-ZOMATO", "pred": "refund"}
+{"text": "DIR=credit | AMT=234807 | NARR=UPI-VERMA STEEL-verma25@axl-506929010972-PAYMENT", "pred": "sales_receipt"}
+{"text": "DIR=credit | AMT=185762 | NARR=RTGS-R806264423-SXN SPPLRS", "pred": "sales_receipt"}
+{"text": "DIR=debit | AMT=1958 | NARR=UPI-MEENA VERMA-meena13@paytm-784492524558-PAYMENT", "pred": "upi_p2p"}
+{"text": "DIR=credit | AMT=47917 | NARR=DD ISSUE", "pred": "other"}
+{"text": "DIR=credit | AMT=8773 | NARR=UPI RET-925573764922-ZOMATO", "pred": "refund"}
+{"text": "DIR=credit | AMT=115228 | NARR=UPI-BANSAL PRINT-bansal59@oksbi-521632400989-PAYMENT", "pred": "sales_receipt"}
+{"text": "DIR=credit | AMT=28751 | NARR=RTGS-R778708759-DAS INDUS", "pred": "sales_receipt"}
+{"text": "DIR=credit | AMT=223762 | NARR=UPI-YADAV DISTRIBUTORS-yadav63@axl-785314483952-COLLECT", "pred": "sales_receipt"}
+{"text": "DIR=debit | AMT=4387 | NARR=ACH D-TATA CAPITAL-EMI-63294489", "pred": "loan_emi"}
+{"text": "DIR=credit | AMT=18585 | NARR=UPI-DPK KHAN-deepak30@okicici-475780834076", "pred": "upi_p2p"}
+{"text": "DIR=debit | AMT=173702 | NARR=NEFT DR-N412572176-GUPTA CERAMICS", "pred": "vendor_payment"}
+{"text": "DIR=credit | AMT=147569 | NARR=NEFT CR-N838211279-GHOSH MA", "pred": "sales_receipt"}
+{"text": "DIR=credit | AMT=171111 | NARR=NEFT CR-N617958323-SINHA ENTERPRISES", "pred": "sales_receipt"}
+{"text": "DIR=debit | AMT=59103 | NARR=SAL-STAFF PAYROLL-41405586", "pred": "salary"}
+{"text": "DIR=debit | AMT=8170 | NARR=UPI-AJAY SHAH-ajay98@ybl-275923755297-PAYMENT", "pred": "upi_p2p"}
+{"text": "DIR=debit | AMT=59358 | NARR=ECS-AXIS LOAN-LOAN 443662", "pred": "loan_emi"}
+{"text": "DIR=debit | AMT=343 | NARR=UPI-DPK IYER-deepak85@okicici-725997986456-SENT", "pred": "upi_p2p"}
+{"text": "DIR=debit | AMT=69292 | NARR=IMPS-191220967146-GUPTA HARDWARE", "pred": "vendor_payment"}
+{"text": "DIR=debit | AMT=15961 | NARR=NACH-BAJAJ FINANCE-37716698", "pred": "loan_emi"}
+{"text": "DIR=debit | AMT=82134 | NARR=NEFT DR-N357519839-PILLAI AGENCI", "pred": "vendor_payment"}
+{"text": "DIR=debit | AMT=12052 | NARR=BBPS-MSEDCL-15156690", "pred": "utility_bill"}
+{"text": "DIR=credit | AMT=7194 | NARR=INTEREST CAPITALISED", "pred": "interest_credit"}
+{"text": "DIR=debit | AMT=10000 | NARR=NWD-7111917548", "pred": "cash_withdrawal"}
+{"text": "DIR=credit | AMT=135510 | NARR=UPI-GHOSH FOODS-ghosh91@axl-795207402878-PAYMENT", "pred": "sales_receipt"}
+{"text": "DIR=debit | AMT=159240 | NARR=NEFT DR-N846923032-CHOPRA ELECTR", "pred": "vendor_payment"}
+{"text": "DIR=credit | AMT=154900 | NARR=CSH DEP-BRANCH-221", "pred": "cash_deposit"}
+{"text": "DIR=credit | AMT=229465 | NARR=IMPS-591269009200-MALHOTRA PRIN", "pred": "sales_receipt"}
+{"text": "DIR=debit | AMT=8632 | NARR=IMPS-958681823463-KULKARNI FA", "pred": "vendor_payment"}
+{"text": "DIR=debit | AMT=16945 | NARR=UPI-KAVITA DAS-kavita34@paytm-624541333118-SENT", "pred": "upi_p2p"}
+{"text": "DIR=credit | AMT=17398 | NARR=UPI-BNSL CHMCLS-bansal10@paytm-407184246707-PAYMENT", "pred": "sales_receipt"}
+{"text": "DIR=credit | AMT=23787 | NARR=UPI-NEHA SHARM-neha58@axl-432128211687-PHONEPE", "pred": "upi_p2p"}
+{"text": "DIR=debit | AMT=23571 | NARR=BILLPAY-LIC OF INDIA-64036799", "pred": "insurance"}
+{"text": "DIR=credit | AMT=53875 | NARR=NEFT CR-N589226316-AGARWAL BROTHERS", "pred": "sales_receipt"}
+{"text": "DIR=credit | AMT=1692 | NARR=SB INT CREDIT", "pred": "interest_credit"}
+{"text": "DIR=debit | AMT=68960 | NARR=IMPS-434412917626-NAIR ELECTRONICS", "pred": "vendor_payment"}
+{"text": "DIR=debit | AMT=153360 | NARR=RTGS-R896893126-IYER CHEMICALS", "pred": "vendor_payment"}
+{"text": "DIR=debit | AMT=30581 | NARR=ACH D-ICICI PL-EMI-92125234", "pred": "loan_emi"}
+{"text": "DIR=debit | AMT=147077 | NARR=IMPS-277183372077-JSH SPPLRS", "pred": "vendor_payment"}
+{"text": "DIR=debit | AMT=49960 | NARR=BILLPAY-ICICI LOMBARD-41161880", "pred": "insurance"}
+{"text": "DIR=credit | AMT=51965 | NARR=DD ISSUE", "pred": "other"}
+{"text": "DIR=debit | AMT=44651 | NARR=NEFT DR-N497446283-ARJUN PATEL SAL", "pred": "salary"}
+{"text": "DIR=debit | AMT=58343 | NARR=ECS-BAJAJ FINANCE-LOAN 760128", "pred": "loan_emi"}
+{"text": "DIR=credit | AMT=127001 | NARR=UPI-CHAWLA TRANSPORT-chawla7@ybl-204558940546-PAYMENT", "pred": "sales_receipt"}
+{"text": "DIR=credit | AMT=12232 | NARR=IMPS-473370180863-SAXENA LOGISTI", "pred": "sales_receipt"}
+{"text": "DIR=credit | AMT=2731 | NARR=INTEREST CAPITALISED", "pred": "interest_credit"}
+{"text": "DIR=debit | AMT=40245 | NARR=NACH-FULLERTON-31554902", "pred": "loan_emi"}
+{"text": "DIR=debit | AMT=40947 | NARR=NEFT DR-N605344035-RITU YADAV SAL", "pred": "salary"}
+{"text": "DIR=debit | AMT=16725 | NARR=UPI-PRIYA BHATT-priya93@paytm-863287633740-PAYMENT", "pred": "upi_p2p"}
+{"text": "DIR=debit | AMT=67695 | NARR=NEFT DR-N729960600-OFFICE RENT FEB", "pred": "rent"}
+{"text": "DIR=credit | AMT=6184 | NARR=UPI-ARJUN IYER-arjun9@okicici-447358947299-PHONEPE", "pred": "upi_p2p"}
+{"text": "DIR=debit | AMT=148778 | NARR=RTGS-R831361497-MALHOTRA PR", "pred": "vendor_payment"}
+{"text": "DIR=debit | AMT=89501 | NARR=RENT DEC-SNEHA SHAH", "pred": "rent"}
+{"text": "DIR=credit | AMT=222770 | NARR=IMPS-220756813346-DS ELCTRNCS", "pred": "sales_receipt"}
+{"text": "DIR=credit | AMT=115 | NARR=REV-UPI-767322461759-IRCTC", "pred": "refund"}
+{"text": "DIR=debit | AMT=354 | NARR=AMB CHRG INCL GST", "pred": "bank_charges"}
+{"text": "DIR=debit | AMT=56835 | NARR=NEFT DR-N546717183-SALARY OCT", "pred": "salary"}
+{"text": "DIR=credit | AMT=116451 | NARR=UPI-SXN PRNTRS-saxena47@oksbi-710897165580-INV PAYMENT", "pred": "sales_receipt"}
+{"text": "DIR=debit | AMT=79785 | NARR=NEFT DR-N179131837-PLL INDSTRS", "pred": "vendor_payment"}
+{"text": "DIR=credit | AMT=24441 | NARR=CHQ DEP-635386-BHTT TRDRS", "pred": "sales_receipt"}
+{"text": "DIR=debit | AMT=55873 | NARR=SAL-STAFF PAYROLL-63360138", "pred": "salary"}
+{"text": "DIR=debit | AMT=107858 | NARR=NEFT DR-N800736641-CHOPRA ELECTRONICS", "pred": "vendor_payment"}
+{"text": "DIR=credit | AMT=91190 | NARR=CHQ DEP-970145-MALHOTRA CHEMICALS", "pred": "sales_receipt"}
+{"text": "DIR=credit | AMT=24444 | NARR=UPI-KAVITA VERMA-kavita43@okicici-992242055611-PAYMENT", "pred": "upi_p2p"}
+{"text": "DIR=credit | AMT=6218 | NARR=INTEREST CAPITALISED", "pred": "interest_credit"}
+{"text": "DIR=debit | AMT=20305 | NARR=NEFT DR-N855451057-OFFICE RENT NOV", "pred": "rent"}
+{"text": "DIR=credit | AMT=140651 | NARR=CHQ DEP-224062-MISHRA INDUSTRIES", "pred": "sales_receipt"}
+{"text": "DIR=credit | AMT=82663 | NARR=IMPS-293999983331-NAIR SWEETS", "pred": "sales_receipt"}
+{"text": "DIR=credit | AMT=8275 | NARR=REV-UPI-515807729297-AMAZON", "pred": "refund"}
+{"text": "DIR=credit | AMT=15730 | NARR=UPI-MN AGRWL-meena66@ibl-306121062108-PAYMENT", "pred": "upi_p2p"}
+{"text": "DIR=debit | AMT=56929 | NARR=NEFT DR-N285250002-OFFICE RENT OCT", "pred": "rent"}
+{"text": "DIR=debit | AMT=56219 | NARR=ACH D-FULLERTON-EMI-54371525", "pred": "loan_emi"}
+{"text": "DIR=credit | AMT=38404 | NARR=REFUND-FLIPKART-92042454", "pred": "refund"}
+{"text": "DIR=credit | AMT=15393 | NARR=UPI-CHOPRA POLYMERS-chopra4@ybl-426170558938-COLLECT", "pred": "sales_receipt"}
+{"text": "DIR=debit | AMT=589 | NARR=UPI-AJAY SHAH-ajay5@oksbi-667455670202-GPAY", "pred": "upi_p2p"}
+{"text": "DIR=debit | AMT=59935 | NARR=NACH-TATA CAPITAL-11103518", "pred": "loan_emi"}
+{"text": "DIR=debit | AMT=34248 | NARR=RTGS-R360182929-CHAWLA TRANSPORT", "pred": "vendor_payment"}
+{"text": "DIR=debit | AMT=87011 | NARR=UPI-AJAY MEHTA-374430425583-SHOP RENT", "pred": "rent"}
+{"text": "DIR=debit | AMT=4813 | NARR=UPI-CHWL FBRCS-chawla59@okhdfcbank-176451504020-BILL PMT", "pred": "vendor_payment"}
+{"text": "DIR=debit | AMT=8572 | NARR=UPI-ARJN AGRWL-arjun64@ibl-185156239305-PHONEPE", "pred": "upi_p2p"}
+{"text": "DIR=debit | AMT=20802 | NARR=NEFT DR-N773358104-MEHTA MOTORS", "pred": "vendor_payment"}
+{"text": "DIR=debit | AMT=55067 | NARR=NEFT DR-N494612942-OFFICE RENT JUL", "pred": "rent"}
+{"text": "DIR=credit | AMT=3989 | NARR=REFUND-SWIGGY-73253406", "pred": "refund"}
+{"text": "DIR=debit | AMT=5995 | NARR=UPI-MANISH JOSHI-manish15@paytm-749398196359-PHONEPE", "pred": "upi_p2p"}
+{"text": "DIR=debit | AMT=62401 | NARR=NEFT DR-N718617836-OFFICE RENT AUG", "pred": "rent"}
+{"text": "DIR=credit | AMT=133484 | NARR=IMPS-490985890121-MISHRA POL", "pred": "sales_receipt"}
+{"text": "DIR=debit | AMT=48846 | NARR=UPI-DPK BHTT-179478415453-SHOP RENT", "pred": "rent"}
+{"text": "DIR=debit | AMT=77566 | NARR=NEFT DR-N382879353-STAFF PAYROLL", "pred": "salary"}
+{"text": "DIR=debit | AMT=48759 | NARR=NEFT DR-N472124296-AGARWAL", "pred": "vendor_payment"}
+{"text": "DIR=credit | AMT=27884 | NARR=REFUND-AMAZON-82404964", "pred": "refund"}
+{"text": "DIR=debit | AMT=21037 | NARR=CLG-658424", "pred": "other"}
+{"text": "DIR=credit | AMT=9888 | NARR=UPI-MEENA KULKA-meena52@okicici-649642062668", "pred": "upi_p2p"}
+{"text": "DIR=debit | AMT=58461 | NARR=ECS-AXIS LOAN-LOAN 884923", "pred": "loan_emi"}
+{"text": "DIR=credit | AMT=24772 | NARR=UPI-YADAV TEXTILES-yadav29@okicici-844918030126-INV PAYMENT", "pred": "sales_receipt"}
+{"text": "DIR=credit | AMT=18626 | NARR=REV-UPI-871400325643-ZOMATO", "pred": "refund"}
+{"text": "DIR=debit | AMT=5654 | NARR=ECS-HDFC BANK LOAN-LOAN 442012", "pred": "loan_emi"}
+{"text": "DIR=credit | AMT=25965 | NARR=UPI RET-655140229207-IRCTC", "pred": "refund"}
+{"text": "DIR=debit | AMT=261329 | NARR=EPAYMENT-CBIC-GST", "pred": "gst_tds_payment"}
+{"text": "DIR=credit | AMT=5812 | NARR=REFUND-FLIPKART-54423293", "pred": "refund"}
+{"text": "DIR=debit | AMT=16370 | NARR=BBPS-BEST UNDERT-46483174", "pred": "utility_bill"}
+{"text": "DIR=debit | AMT=41768 | NARR=RTGS-R764082033-CHPR MRKTNG", "pred": "vendor_payment"}
+{"text": "DIR=credit | AMT=199173 | NARR=UPI-SHARMA TRANSPORT-sharma71@okhdfcbank-832277061546-INV PAYMENT", "pred": "sales_receipt"}
+{"text": "DIR=credit | AMT=242458 | NARR=CHQ DEP-840632-TRIVEDI POLYMERS", "pred": "sales_receipt"}
+{"text": "DIR=debit | AMT=15119 | NARR=BILLPAY-MSEDCL-RECHARGE-4335942", "pred": "utility_bill"}
+{"text": "DIR=credit | AMT=38815 | NARR=UPI-IYER SUPPLIERS-iyer91@oksbi-399228935071-COLLECT", "pred": "sales_receipt"}
+{"text": "DIR=debit | AMT=261057 | NARR=TDS PAYMENT CBDT-57344278", "pred": "gst_tds_payment"}
+{"text": "DIR=debit | AMT=89539 | NARR=NEFT DR-N248232294-PRIYA KULKARNI SAL", "pred": "salary"}
+{"text": "DIR=debit | AMT=3925 | NARR=ECS-TATA CAPITAL-LOAN 273833", "pred": "loan_emi"}
+{"text": "DIR=debit | AMT=164725 | NARR=NEFT DR-N712062546-YADAV CERAMICS", "pred": "vendor_payment"}
+{"text": "DIR=debit | AMT=68757 | NARR=SAL-SALARY OCT-62319754", "pred": "salary"}
+{"text": "DIR=credit | AMT=144228 | NARR=IMPS-760198188648-SNH HRDWR", "pred": "sales_receipt"}
+{"text": "DIR=debit | AMT=7098 | NARR=UPI-BWSSB WATER-bwssb@okicici-766939940452-BILL", "pred": "utility_bill"}
+{"text": "DIR=debit | AMT=28009 | NARR=NEFT DR-N226195303-OFFICE RENT JAN", "pred": "rent"}
+{"text": "DIR=credit | AMT=80950 | NARR=RTGS-R689516020-BHTT SPPLRS", "pred": "sales_receipt"}
+{"text": "DIR=debit | AMT=4194 | NARR=UPI-AIRTEL-airtel@okhdfcbank-151624397822-BILL", "pred": "utility_bill"}
+{"text": "DIR=credit | AMT=167406 | NARR=UPI-DESAI SWEET-desai43@okicici-336257775525-PAYMENT", "pred": "sales_receipt"}
+{"text": "DIR=credit | AMT=101000 | NARR=CASH DEP BY SELF", "pred": "cash_deposit"}
+{"text": "DIR=debit | AMT=45148 | NARR=NACH-HDFC BANK LOAN-56550448", "pred": "loan_emi"}
+{"text": "DIR=credit | AMT=6122 | NARR=UPI-SWATI REDDY-swati78@okhdfcbank-160138396952", "pred": "upi_p2p"}
+{"text": "DIR=credit | AMT=40800 | NARR=CSH DEP-BRANCH-699", "pred": "cash_deposit"}
+{"text": "DIR=debit | AMT=17263 | NARR=UPI-SNEHA KHAN-sneha36@okhdfcbank-155863989318-GPAY", "pred": "upi_p2p"}
+{"text": "DIR=credit | AMT=235208 | NARR=CHQ DEP-830248-MHT PCKGNG", "pred": "sales_receipt"}
+{"text": "DIR=debit | AMT=8875 | NARR=NEFT DR-N335280382-OFFICE RENT MAR", "pred": "rent"}
+{"text": "DIR=credit | AMT=10563 | NARR=UPI-MNSH SXN-manish93@oksbi-709446157251-PAYMENT", "pred": "upi_p2p"}
+{"text": "DIR=credit | AMT=2095 | NARR=FD INT-5167075", "pred": "interest_credit"}
+{"text": "DIR=debit | AMT=70816 | NARR=GSTN PAYMENT 23820681", "pred": "gst_tds_payment"}
+{"text": "DIR=credit | AMT=29321 | NARR=REFUND-SWIGGY-33396677", "pred": "refund"}
+{"text": "DIR=debit | AMT=204340 | NARR=TDS PAYMENT CBDT-64731709", "pred": "gst_tds_payment"}
+{"text": "DIR=debit | AMT=11961 | NARR=UPI-DEEPAK CHOPRA-deepak98@okhdfcbank-832737412259-PHONEPE", "pred": "upi_p2p"}
+{"text": "DIR=credit | AMT=173600 | NARR=CASH DEP BY SELF", "pred": "cash_deposit"}
+{"text": "DIR=debit | AMT=40000 | NARR=NWD-3915292219", "pred": "cash_withdrawal"}
+{"text": "DIR=debit | AMT=269809 | NARR=ADVANCE TAX-9309978", "pred": "gst_tds_payment"}
+{"text": "DIR=debit | AMT=8456 | NARR=NEFT DR-N394615539-NAIR INDUSTRIES", "pred": "vendor_payment"}
+{"text": "DIR=debit | AMT=5000 | NARR=NWD-8489555414", "pred": "cash_withdrawal"}
+{"text": "DIR=credit | AMT=31721 | NARR=IMPS REV-443835672460-CHOPRA EXP", "pred": "refund"}
+{"text": "DIR=credit | AMT=36505 | NARR=REV-UPI-109788869318-ZOMATO", "pred": "refund"}
+{"text": "DIR=credit | AMT=14758 | NARR=UPI-AMIT CHAWLA-amit64@paytm-412544726675-GPAY", "pred": "upi_p2p"}
+{"text": "DIR=debit | AMT=1035 | NARR=UPI-PRIYA REDDY-priya55@axl-540566956236-PHONEPE", "pred": "upi_p2p"}
+{"text": "DIR=credit | AMT=4854 | NARR=FD INT-2833398", "pred": "interest_credit"}
+{"text": "DIR=debit | AMT=108399 | NARR=RTGS-R634190259-SAXENA SUPPLIE", "pred": "vendor_payment"}
+{"text": "DIR=debit | AMT=682 | NARR=UPI-BWSSB WATER-bwssb@okhdfcbank-647742351758-BILL", "pred": "utility_bill"}
+{"text": "DIR=debit | AMT=39105 | NARR=ECS-FULLERTON-LOAN 576419", "pred": "loan_emi"}
+{"text": "DIR=debit | AMT=52946 | NARR=UPI-CHOPRA SWEETS-chopra85@oksbi-621917373005-PAYMENT", "pred": "vendor_payment"}
+{"text": "DIR=debit | AMT=89251 | NARR=SAL-STAFF PAYROLL-65748328", "pred": "salary"}
+{"text": "DIR=credit | AMT=24142 | NARR=UPI-RAHUL SHAH-rahul78@oksbi-692010749927", "pred": "upi_p2p"}
+{"text": "DIR=debit | AMT=39465 | NARR=NEFT DR-N528667679-OFFICE RENT DEC", "pred": "rent"}
+{"text": "DIR=credit | AMT=213167 | NARR=IMPS-133767546559-SAXENA HARDWARE", "pred": "sales_receipt"}
+{"text": "DIR=credit | AMT=19828 | NARR=IMPS REV-189657383584-CHOPRA PRI", "pred": "refund"}
+{"text": "DIR=credit | AMT=66400 | NARR=CSH DEP-BRANCH-589", "pred": "cash_deposit"}
+{"text": "DIR=debit | AMT=159474 | NARR=IMPS-692002505807-DS FBRCS", "pred": "vendor_payment"}
+{"text": "DIR=credit | AMT=105785 | NARR=IMPS-766277057908-NAIR MOTORS", "pred": "sales_receipt"}
+{"text": "DIR=debit | AMT=5271 | NARR=BBPS-ADANI ELEC-89111224", "pred": "utility_bill"}
+{"text": "DIR=debit | AMT=55263 | NARR=BILLPAY-STAR HEALTH-15802060", "pred": "insurance"}
+{"text": "DIR=debit | AMT=175016 | NARR=IMPS-724661942072-NAIR FBRCS", "pred": "vendor_payment"}
+{"text": "DIR=debit | AMT=41298 | NARR=BY TRANSFER-73757341", "pred": "other"}
+{"text": "DIR=debit | AMT=177 | NARR=PROCESSING FEE-212412", "pred": "bank_charges"}
+{"text": "DIR=credit | AMT=247741 | NARR=RTGS-R785651634-SNH AGNCS", "pred": "sales_receipt"}
+{"text": "DIR=credit | AMT=15640 | NARR=UPI-NEHA JSH-neha88@paytm-948702649350-SENT", "pred": "upi_p2p"}
+{"text": "DIR=debit | AMT=118 | NARR=PROCESSING FEE-639875", "pred": "bank_charges"}
+{"text": "DIR=debit | AMT=13424 | NARR=NACH-TATA CAPITAL-31764037", "pred": "loan_emi"}
+{"text": "DIR=credit | AMT=5169 | NARR=FD INT-8479891", "pred": "interest_credit"}
+{"text": "DIR=debit | AMT=178603 | NARR=NEFT DR-N352270282-MALHOTRA DISTRIBUTORS", "pred": "vendor_payment"}
+{"text": "DIR=credit | AMT=125400 | NARR=CDM DEPOSIT-338826", "pred": "cash_deposit"}
+{"text": "DIR=debit | AMT=31531 | NARR=IMPS-443136913593-TRVD EXPRTS", "pred": "vendor_payment"}
+{"text": "DIR=debit | AMT=21281 | NARR=RENT JUN-DEEPAK JOSH", "pred": "rent"}
+{"text": "DIR=debit | AMT=9389 | NARR=BILLPAY-TATA POWER-BILL-3511883", "pred": "utility_bill"}
+{"text": "DIR=credit | AMT=334 | NARR=FD INT-6997671", "pred": "interest_credit"}
+{"text": "DIR=debit | AMT=8527 | NARR=BILLPAY-BWSSB WATER-BILL-6047028", "pred": "utility_bill"}
+{"text": "DIR=debit | AMT=16509 | NARR=UPI-TATA POWER-tata@okhdfcbank-369037828832-BILL", "pred": "utility_bill"}
+{"text": "DIR=debit | AMT=13988 | NARR=DD ISSUE", "pred": "other"}
+{"text": "DIR=debit | AMT=278406 | NARR=EPAYMENT-CBIC-GST", "pred": "gst_tds_payment"}
+{"text": "DIR=credit | AMT=29855 | NARR=IMPS REV-602859337581-MYNTRA", "pred": "refund"}
+{"text": "DIR=credit | AMT=72231 | NARR=RTGS-R191609886-AGARWAL TEXTILES", "pred": "sales_receipt"}
+{"text": "DIR=credit | AMT=10065 | NARR=UPI-VIKAS TRIVEDI-vikas56@paytm-667468951032-SENT", "pred": "upi_p2p"}
+{"text": "DIR=debit | AMT=20000 | NARR=NWD-9964342134", "pred": "cash_withdrawal"}
+{"text": "DIR=debit | AMT=124953 | NARR=UPI-KHAN HRDWR-khan71@okhdfcbank-816639682834-PURCHASE", "pred": "vendor_payment"}
+{"text": "DIR=credit | AMT=181542 | NARR=NEFT CR-N217762169-PTL STL", "pred": "sales_receipt"}
+{"text": "DIR=credit | AMT=202840 | NARR=CHQ DEP-855827-DESAI TRANSPORT", "pred": "sales_receipt"}
+{"text": "DIR=credit | AMT=19904 | NARR=UPI-RITU BANS-ritu74@ibl-138523351685-PHONEPE", "pred": "upi_p2p"}
+{"text": "DIR=credit | AMT=70332 | NARR=UPI-KHAN CERAMICS-khan85@paytm-448230487283-INV PAYMENT", "pred": "sales_receipt"}
+{"text": "DIR=debit | AMT=13905 | NARR=NACH-HDFC BANK LOAN-56171535", "pred": "loan_emi"}
+{"text": "DIR=debit | AMT=64241 | NARR=UPI-SURESH SAXENA-839323238056-SHOP RENT", "pred": "rent"}
+{"text": "DIR=credit | AMT=34567 | NARR=CHQ DEP-459609-GHSH MRKTNG", "pred": "sales_receipt"}
+{"text": "DIR=debit | AMT=41059 | NARR=GST PMT-44704500491", "pred": "gst_tds_payment"}
+{"text": "DIR=debit | AMT=54384 | NARR=NACH-HDFC ERGO-PREMIUM", "pred": "insurance"}
+{"text": "DIR=debit | AMT=31547 | NARR=IMPS-800125921897-SNH DSTRBTRS", "pred": "vendor_payment"}
+{"text": "DIR=credit | AMT=27204 | NARR=REFUND-SWIGGY-59451842", "pred": "refund"}
+{"text": "DIR=credit | AMT=208458 | NARR=RTGS-R457412695-VERMA SWEETS", "pred": "sales_receipt"}
+{"text": "DIR=credit | AMT=159801 | NARR=UPI-DAS ENTRPRSS-das62@paytm-988051437872-COLLECT", "pred": "sales_receipt"}
+{"text": "DIR=debit | AMT=8747 | NARR=UPI-BEST UNDERT-best@okhdfcbank-109988447167-BILL", "pred": "utility_bill"}
+{"text": "DIR=credit | AMT=183700 | NARR=CSH DEP-BRANCH-576", "pred": "cash_deposit"}
+{"text": "DIR=credit | AMT=37644 | NARR=REFUND-IRCTC-84715511", "pred": "refund"}
+{"text": "DIR=debit | AMT=17000 | NARR=SAL-MEENA BHATT SAL-64816116", "pred": "salary"}
+{"text": "DIR=credit | AMT=227519 | NARR=CHQ DEP-412597-PILLAI SUPPLIE", "pred": "sales_receipt"}
+{"text": "DIR=debit | AMT=305188 | NARR=GST PMT-66624281455", "pred": "gst_tds_payment"}
+{"text": "DIR=debit | AMT=118 | NARR=AMB CHRG INCL GST", "pred": "bank_charges"}
+{"text": "DIR=debit | AMT=170536 | NARR=NEFT DR-N670911145-SINHA FABRICS", "pred": "vendor_payment"}
+{"text": "DIR=debit | AMT=46209 | NARR=ACH D-FULLERTON-EMI-47270260", "pred": "loan_emi"}
+{"text": "DIR=credit | AMT=187877 | NARR=CHQ DEP-578512-KLKRN FDS", "pred": "sales_receipt"}
+{"text": "DIR=credit | AMT=36328 | NARR=UPI-CHPR ENTRPRSS-chopra82@oksbi-826772016927-INV PAYMENT", "pred": "sales_receipt"}
+{"text": "DIR=credit | AMT=140400 | NARR=CDM DEPOSIT-133429", "pred": "cash_deposit"}
+{"text": "DIR=credit | AMT=103100 | NARR=CDM DEPOSIT-190620", "pred": "cash_deposit"}
+{"text": "DIR=debit | AMT=13150 | NARR=NEFT DR-N847253936-POOJA REDDY SAL", "pred": "salary"}
+{"text": "DIR=credit | AMT=47759 | NARR=UPI-SINHA INDUST-sinha75@ybl-913999616361-PAYMENT", "pred": "sales_receipt"}
+{"text": "DIR=credit | AMT=22531 | NARR=REV-UPI-277288974377-ZOMATO", "pred": "refund"}
+{"text": "DIR=debit | AMT=5514 | NARR=UPI-PJ RTH-pooja93@ibl-619594901939", "pred": "upi_p2p"}
+{"text": "DIR=debit | AMT=145169 | NARR=IMPS-696239988186-MEHTA TRADERS", "pred": "vendor_payment"}
+{"text": "DIR=debit | AMT=56769 | NARR=NACH-AXIS LOAN-85592145", "pred": "loan_emi"}
+{"text": "DIR=credit | AMT=99402 | NARR=NEFT CR-N573688619-DS STTNRS", "pred": "sales_receipt"}
+{"text": "DIR=credit | AMT=57046 | NARR=UPI-DS MRKTNG-desai89@ibl-822346200533-COLLECT", "pred": "sales_receipt"}
+{"text": "DIR=debit | AMT=68268 | NARR=IMPS-570081473460-RATHI PAPERS", "pred": "vendor_payment"}
+{"text": "DIR=debit | AMT=20191 | NARR=BILLPAY-STAR HEALTH-21195834", "pred": "insurance"}
+{"text": "DIR=debit | AMT=2675 | NARR=GST PMT-58071871431", "pred": "gst_tds_payment"}
+{"text": "DIR=debit | AMT=102072 | NARR=IMPS-890279600088-PATEL EXPORTS", "pred": "vendor_payment"}
+{"text": "DIR=debit | AMT=179218 | NARR=ADVANCE TAX-3566062", "pred": "gst_tds_payment"}
+{"text": "DIR=credit | AMT=7300 | NARR=CASH DEP BY SELF", "pred": "cash_deposit"}
+{"text": "DIR=credit | AMT=147912 | NARR=CHQ DEP-889859-DAS FABRICS", "pred": "sales_receipt"}
+{"text": "DIR=credit | AMT=73000 | NARR=CSH DEP-BRANCH-303", "pred": "cash_deposit"}
+{"text": "DIR=debit | AMT=54490 | NARR=RENT JUN-KVT KHAN", "pred": "rent"}
+{"text": "DIR=debit | AMT=2000 | NARR=ATM WDL-382648-DELHI", "pred": "cash_withdrawal"}
+{"text": "DIR=debit | AMT=33774 | NARR=NACH-HDFC BANK LOAN-96628123", "pred": "loan_emi"}
+{"text": "DIR=credit | AMT=13853 | NARR=REFUND-MYNTRA-48338087", "pred": "refund"}
+{"text": "DIR=debit | AMT=40321 | NARR=UPI-POOJA YADAV-190438295001-SHOP RENT", "pred": "rent"}
+{"text": "DIR=credit | AMT=23820 | NARR=UPI-DIVYA DESAI-divya29@ybl-860456330144", "pred": "upi_p2p"}
+{"text": "DIR=debit | AMT=5303 | NARR=UPI-ANITA SI-anita64@ibl-479413119943-PAYMENT", "pred": "upi_p2p"}
+{"text": "DIR=credit | AMT=16681 | NARR=UPI-RAHUL GUPTA-rahul79@okicici-338283779842-GPAY", "pred": "upi_p2p"}
+{"text": "DIR=credit | AMT=239652 | NARR=CHQ DEP-801279-VERMA TE", "pred": "sales_receipt"}
+{"text": "DIR=credit | AMT=55724 | NARR=RTGS-R703800000-SXN STTNRS", "pred": "sales_receipt"}
+{"text": "DIR=credit | AMT=92105 | NARR=RTGS-R270014801-DESAI MOT", "pred": "sales_receipt"}
+{"text": "DIR=debit | AMT=14863 | NARR=NEFT DR-N618656232-AJAY DESAI SAL", "pred": "salary"}
+{"text": "DIR=debit | AMT=59159 | NARR=ACH D-FULLERTON-EMI-14069500", "pred": "loan_emi"}
+{"text": "DIR=debit | AMT=40000 | NARR=ATM WDL-715429-DELHI", "pred": "cash_withdrawal"}
+{"text": "DIR=debit | AMT=58374 | NARR=NACH-LIC OF INDIA-PREMIUM", "pred": "insurance"}
+{"text": "DIR=debit | AMT=33249 | NARR=NEFT DR-N201698998-OFFICE RENT JUN", "pred": "rent"}
+{"text": "DIR=credit | AMT=16579 | NARR=IMPS-803029570699-GHOSH WHOLESALE", "pred": "sales_receipt"}
+{"text": "DIR=credit | AMT=26030 | NARR=UPI RET-972837564973-SINHA SUPPLIERS", "pred": "refund"}
+{"text": "DIR=credit | AMT=46584 | NARR=UPI-SHARMA PAP-sharma3@ybl-570947270644-INV PAYMENT", "pred": "sales_receipt"}
+{"text": "DIR=debit | AMT=68494 | NARR=UPI-DESAI AGENCIES-desai70@axl-159729605024-BILL PMT", "pred": "vendor_payment"}
+{"text": "DIR=debit | AMT=150683 | NARR=IMPS-137911040126-GHOSH FABRICS", "pred": "vendor_payment"}
+{"text": "DIR=credit | AMT=179885 | NARR=RTGS-R437058401-PATEL PO", "pred": "sales_receipt"}
+{"text": "DIR=credit | AMT=40260 | NARR=REFUND-ZOMATO-76347940", "pred": "refund"}
+{"text": "DIR=debit | AMT=15147 | NARR=UPI-MAHANAGAR GAS-mahanagar@ybl-566044388378-BILL", "pred": "utility_bill"}
+{"text": "DIR=debit | AMT=22891 | NARR=NEFT DR-N470762184-AJAY GUPTA SAL", "pred": "salary"}
+{"text": "DIR=credit | AMT=35060 | NARR=UPI-SHARMA MOTORS-sharma4@oksbi-296204493196-COLLECT", "pred": "sales_receipt"}
+{"text": "DIR=credit | AMT=21116 | NARR=UPI-AMIT CHPR-amit94@axl-734955291987-GPAY", "pred": "upi_p2p"}
+{"text": "DIR=credit | AMT=145664 | NARR=UPI-CHOPRA ENTERP-chopra80@oksbi-208047336505-COLLECT", "pred": "sales_receipt"}
+{"text": "DIR=debit | AMT=33221 | NARR=ACH D-FULLERTON-EMI-67570049", "pred": "loan_emi"}
+{"text": "DIR=debit | AMT=14129 | NARR=UPI-VKS RDDY-vikas21@oksbi-464793794504-PHONEPE", "pred": "upi_p2p"}
+{"text": "DIR=credit | AMT=473 | NARR=INTEREST CAPITALISED", "pred": "interest_credit"}
+{"text": "DIR=debit | AMT=57197 | NARR=UPI-BANSAL TRANSPORT-bansal56@axl-891274093779-BILL PMT", "pred": "vendor_payment"}
+{"text": "DIR=debit | AMT=5083 | NARR=UPI-AIRTEL-airtel@ibl-682656618230-BILL", "pred": "utility_bill"}
+{"text": "DIR=debit | AMT=13287 | NARR=UPI-RITU VERMA-ritu43@oksbi-226512502677", "pred": "upi_p2p"}
+{"text": "DIR=credit | AMT=240013 | NARR=UPI-MHT PPRS-mehta10@paytm-788482793221-COLLECT", "pred": "sales_receipt"}
+{"text": "DIR=credit | AMT=17008 | NARR=CHQ DEP-263040-PILLAI HARDWARE", "pred": "sales_receipt"}
+{"text": "DIR=debit | AMT=12501 | NARR=UPI-DPK IYER-920965263404-SHOP RENT", "pred": "rent"}
+{"text": "DIR=credit | AMT=188819 | NARR=UPI-MALHOTRA T-malhotra29@ibl-447084590808-COLLECT", "pred": "sales_receipt"}
+{"text": "DIR=debit | AMT=14370 | NARR=ADVANCE TAX-7780777", "pred": "gst_tds_payment"}
+{"text": "DIR=debit | AMT=88992 | NARR=NEFT DR-N623263684-SALARY JUL", "pred": "salary"}
+{"text": "DIR=credit | AMT=160200 | NARR=CASH DEP BY SELF", "pred": "cash_deposit"}
+{"text": "DIR=credit | AMT=101918 | NARR=RTGS-R779383277-MISHRA MOTORS", "pred": "sales_receipt"}
+{"text": "DIR=debit | AMT=43397 | NARR=BILLPAY-MAX LIFE-62216325", "pred": "insurance"}
+{"text": "DIR=credit | AMT=17143 | NARR=REFUND-ZOMATO-72656461", "pred": "refund"}
+{"text": "DIR=debit | AMT=58751 | NARR=NEFT DR-N141864346-OFFICE RENT AUG", "pred": "rent"}
+{"text": "DIR=credit | AMT=200638 | NARR=CHQ DEP-372784-GUPTA SUPPLIERS", "pred": "sales_receipt"}
+{"text": "DIR=credit | AMT=143900 | NARR=CDM DEPOSIT-853919", "pred": "cash_deposit"}
+{"text": "DIR=debit | AMT=68875 | NARR=UPI-SANJAY NAIR-798514251340-SHOP RENT", "pred": "rent"}
+{"text": "DIR=credit | AMT=382 | NARR=UPI-AMIT SAXENA-amit72@oksbi-298309865017-PAYMENT", "pred": "upi_p2p"}
+{"text": "DIR=debit | AMT=354 | NARR=SMS CHARGES SEP QTR", "pred": "bank_charges"}
+{"text": "DIR=debit | AMT=226765 | NARR=GST PMT-31481192832", "pred": "gst_tds_payment"}
+{"text": "DIR=debit | AMT=24319 | NARR=UPI-DIVYA AGARWAL-divya80@oksbi-263853158607-SENT", "pred": "upi_p2p"}
+{"text": "DIR=debit | AMT=44114 | NARR=ACH D-SBI LIFE-80982664", "pred": "insurance"}
+{"text": "DIR=credit | AMT=96791 | NARR=CHQ DEP-832062-IYER ELECTRONICS", "pred": "sales_receipt"}
+{"text": "DIR=credit | AMT=25500 | NARR=CASH DEP BY SELF", "pred": "cash_deposit"}
+{"text": "DIR=credit | AMT=5102 | NARR=REFUND-IRCTC-64210598", "pred": "refund"}
+{"text": "DIR=debit | AMT=47066 | NARR=ACH D-FULLERTON-EMI-92753361", "pred": "loan_emi"}
+{"text": "DIR=debit | AMT=5000 | NARR=NWD-8160942197", "pred": "cash_withdrawal"}
+{"text": "DIR=credit | AMT=141723 | NARR=UPI-RATHI MOTORS-rathi31@ibl-338608586250-INV PAYMENT", "pred": "sales_receipt"}
+{"text": "DIR=credit | AMT=34631 | NARR=REFUND-MYNTRA-59952648", "pred": "refund"}
+{"text": "DIR=debit | AMT=176471 | NARR=UPI-RATHI PAPERS-rathi61@okicici-466826061886-PURCHASE", "pred": "vendor_payment"}
+{"text": "DIR=credit | AMT=28621 | NARR=NEFT CR-N796712673-CHAWLA B", "pred": "sales_receipt"}
+{"text": "DIR=debit | AMT=118 | NARR=PROCESSING FEE-140989", "pred": "bank_charges"}
+{"text": "DIR=credit | AMT=75717 | NARR=CHQ DEP-508659-SHAH FABRICS", "pred": "sales_receipt"}
+{"text": "DIR=credit | AMT=3550 | NARR=SB INT CREDIT", "pred": "interest_credit"}
+{"text": "DIR=debit | AMT=42612 | NARR=UPI-MLHTR FBRCS-malhotra86@okhdfcbank-565971795355-BILL PMT", "pred": "vendor_payment"}
+{"text": "DIR=credit | AMT=55850 | NARR=RTGS-R108443504-CHAWLA B", "pred": "sales_receipt"}
+{"text": "DIR=debit | AMT=19125 | NARR=IMPS-230597601269-AGARWAL S", "pred": "vendor_payment"}
+{"text": "DIR=debit | AMT=82328 | NARR=NEFT DR-N592171427-ROHAN SAXENA SAL", "pred": "salary"}
+{"text": "DIR=credit | AMT=220183 | NARR=RTGS-R109149130-SINHA PRINTERS", "pred": "sales_receipt"}
+{"text": "DIR=debit | AMT=139134 | NARR=IMPS-812462181048-GHOSH AGENCIES", "pred": "vendor_payment"}
+{"text": "DIR=credit | AMT=44600 | NARR=CSH DEP-BRANCH-607", "pred": "cash_deposit"}
+{"text": "DIR=credit | AMT=191339 | NARR=CHQ DEP-212044-DESAI FOODS", "pred": "sales_receipt"}
+{"text": "DIR=debit | AMT=80808 | NARR=UPI-NEHA TRIVEDI-777808078924-SHOP RENT", "pred": "rent"}
+{"text": "DIR=credit | AMT=242440 | NARR=RTGS-R298328666-SXN AGNCS", "pred": "sales_receipt"}
+{"text": "DIR=credit | AMT=21692 | NARR=UPI-NEHA MISHRA-neha91@oksbi-961805446645-SENT", "pred": "upi_p2p"}
+{"text": "DIR=credit | AMT=191221 | NARR=UPI-MISHRA FO-mishra38@okhdfcbank-198741926224-INV PAYMENT", "pred": "sales_receipt"}
+{"text": "DIR=debit | AMT=41845 | NARR=BY TRANSFER-40926047", "pred": "other"}
+{"text": "DIR=debit | AMT=89416 | NARR=SAL-STAFF PAYROLL-10687870", "pred": "salary"}
+{"text": "DIR=debit | AMT=19629 | NARR=NACH-TATA CAPITAL-58970233", "pred": "loan_emi"}
+{"text": "DIR=debit | AMT=125329 | NARR=UPI-AGARWAL E-agarwal50@ybl-521303442307-BILL PMT", "pred": "vendor_payment"}
+{"text": "DIR=credit | AMT=1846 | NARR=INTEREST CAPITALISED", "pred": "interest_credit"}
+{"text": "DIR=debit | AMT=18468 | NARR=RTGS-R721481932-PATEL INDUSTRIES", "pred": "vendor_payment"}
+{"text": "DIR=debit | AMT=55327 | NARR=ACH D-MAX LIFE-30974325", "pred": "insurance"}
+{"text": "DIR=credit | AMT=65885 | NARR=UPI-DAS AGENCIES-das95@axl-731722697155-PAYMENT", "pred": "sales_receipt"}
+{"text": "DIR=credit | AMT=87888 | NARR=CHQ DEP-209397-VERMA BROTHERS", "pred": "sales_receipt"}
+{"text": "DIR=credit | AMT=154100 | NARR=CDM DEPOSIT-750227", "pred": "cash_deposit"}
+{"text": "DIR=debit | AMT=55581 | NARR=ECS-TATA CAPITAL-LOAN 319387", "pred": "loan_emi"}
+{"text": "DIR=credit | AMT=77996 | NARR=UPI-BANSAL HARDWA-bansal13@okhdfcbank-285572450017-COLLECT", "pred": "sales_receipt"}
+{"text": "DIR=credit | AMT=241671 | NARR=CHQ DEP-997842-MEHTA BROTHE", "pred": "sales_receipt"}
+{"text": "DIR=debit | AMT=107903 | NARR=RTGS-R242895464-MISHRA INDUSTRIES", "pred": "vendor_payment"}
+{"text": "DIR=debit | AMT=917 | NARR=UPI-SANJAY BHAT-sanjay20@ybl-518742155429-PAYMENT", "pred": "upi_p2p"}
+{"text": "DIR=credit | AMT=155146 | NARR=CHQ DEP-246463-MSHR CHMCLS", "pred": "sales_receipt"}
+{"text": "DIR=debit | AMT=13173 | NARR=UPI-PRY GPT-priya90@okhdfcbank-506589427724", "pred": "upi_p2p"}
+{"text": "DIR=debit | AMT=57085 | NARR=NEFT DR-N952342720-DIVYA JOSHI SAL", "pred": "salary"}
+{"text": "DIR=credit | AMT=43815 | NARR=REV-UPI-618814752066-MYNTRA", "pred": "refund"}
+{"text": "DIR=credit | AMT=141271 | NARR=RTGS-R661221714-KLKRN MRKTNG", "pred": "sales_receipt"}
+{"text": "DIR=debit | AMT=76972 | NARR=UPI-TRIVEDI TRADERS-trivedi46@okhdfcbank-226936433890-PAYMENT", "pred": "vendor_payment"}
+{"text": "DIR=credit | AMT=19963 | NARR=UPI-PRIYA MISHRA-priya36@axl-178678341036-SENT", "pred": "upi_p2p"}
+{"text": "DIR=credit | AMT=118792 | NARR=UPI-BHTT LGSTCS-bhatt72@paytm-377705266601-PAYMENT", "pred": "sales_receipt"}
+{"text": "DIR=debit | AMT=51701 | NARR=DD ISSUE", "pred": "other"}
+{"text": "DIR=credit | AMT=212846 | NARR=UPI-PATEL PAPERS-patel58@ybl-120441781814-PAYMENT", "pred": "sales_receipt"}
+{"text": "DIR=credit | AMT=23253 | NARR=REFUND-IRCTC-25080505", "pred": "refund"}
+{"text": "DIR=credit | AMT=218298 | NARR=UPI-SINHA POLYM-sinha25@okicici-780895730064-COLLECT", "pred": "sales_receipt"}
+{"text": "DIR=debit | AMT=146685 | NARR=NEFT DR-N835008315-MEHTA PRINTERS", "pred": "vendor_payment"}
+{"text": "DIR=debit | AMT=46741 | NARR=DD ISSUE", "pred": "other"}
+{"text": "DIR=debit | AMT=5000 | NARR=ATM WDL-663293-DELHI", "pred": "cash_withdrawal"}
+{"text": "DIR=debit | AMT=54119 | NARR=NACH-BAJAJ FINANCE-81459499", "pred": "loan_emi"}
+{"text": "DIR=credit | AMT=21883 | NARR=CHQ DEP-813556-YADAV FABRICS", "pred": "sales_receipt"}
+{"text": "DIR=credit | AMT=240765 | NARR=UPI-PILLAI PACKAGING-pillai50@oksbi-481204154866-INV PAYMENT", "pred": "sales_receipt"}
+{"text": "DIR=debit | AMT=5917 | NARR=BILLPAY-SBI LIFE-39961203", "pred": "insurance"}
+{"text": "DIR=debit | AMT=63329 | NARR=TDS PAYMENT CBDT-57076011", "pred": "gst_tds_payment"}
+{"text": "DIR=credit | AMT=12144 | NARR=UPI-DIVYA VERMA-divya85@ybl-482716883762-PHONEPE", "pred": "upi_p2p"}
+{"text": "DIR=debit | AMT=2000 | NARR=NWD-1166332046", "pred": "cash_withdrawal"}
+{"text": "DIR=credit | AMT=16053 | NARR=UPI-AGARWAL INDUSTRIES-agarwal39@paytm-206466812416-INV PAYMENT", "pred": "sales_receipt"}
+{"text": "DIR=credit | AMT=12378 | NARR=UPI-ROHAN KULKARNI-rohan57@ybl-713548723139", "pred": "upi_p2p"}
+{"text": "DIR=credit | AMT=109648 | NARR=NEFT CR-N674302274-GUPTA FAB", "pred": "sales_receipt"}
+{"text": "DIR=credit | AMT=28013 | NARR=REFUND-SWIGGY-56834080", "pred": "refund"}
+{"text": "DIR=debit | AMT=12260 | NARR=NACH-STAR HEALTH-PREMIUM", "pred": "insurance"}
+{"text": "DIR=credit | AMT=44118 | NARR=REFUND-ZOMATO-88885546", "pred": "refund"}
+{"text": "DIR=debit | AMT=12008 | NARR=BILLPAY-ADANI ELEC-ELEC-8499706", "pred": "utility_bill"}
+{"text": "DIR=debit | AMT=22468 | NARR=UPI-SURESH MISHRA-suresh66@oksbi-556450482361-PAYMENT", "pred": "upi_p2p"}
+{"text": "DIR=debit | AMT=89178 | NARR=NEFT DR-N443338079-SALARY OCT", "pred": "salary"}
+{"text": "DIR=debit | AMT=69050 | NARR=UPI-SANJAY KHA-594855475672-SHOP RENT", "pred": "rent"}
+{"text": "DIR=credit | AMT=14270 | NARR=CHQ DEP-473276-PATEL FABR", "pred": "sales_receipt"}
+{"text": "DIR=credit | AMT=213810 | NARR=UPI-CHAWLA BROTHERS-chawla72@ybl-131018173636-COLLECT", "pred": "sales_receipt"}
+{"text": "DIR=debit | AMT=54152 | NARR=UPI-MEENA SIN-446582821861-SHOP RENT", "pred": "rent"}
+{"text": "DIR=credit | AMT=190626 | NARR=UPI-KLKRN WHLSL-kulkarni90@oksbi-846775607100-INV PAYMENT", "pred": "sales_receipt"}
+{"text": "DIR=credit | AMT=6884 | NARR=INTEREST CAPITALISED", "pred": "interest_credit"}
+{"text": "DIR=debit | AMT=30974 | NARR=ACH D-HDFC BANK LOAN-EMI-87701200", "pred": "loan_emi"}
+{"text": "DIR=debit | AMT=165111 | NARR=UPI-NAIR STATIONE-nair43@axl-518903718101-PURCHASE", "pred": "vendor_payment"}
+{"text": "DIR=credit | AMT=31100 | NARR=CDM DEPOSIT-520451", "pred": "cash_deposit"}
+{"text": "DIR=debit | AMT=6517 | NARR=UPI-DIVYA GHOS-divya84@ybl-424812040601-SENT", "pred": "upi_p2p"}
+{"text": "DIR=credit | AMT=40400 | NARR=CASH DEP BY SELF", "pred": "cash_deposit"}
+{"text": "DIR=debit | AMT=40157 | NARR=ECS-AXIS LOAN-LOAN 229794", "pred": "loan_emi"}
+{"text": "DIR=credit | AMT=247766 | NARR=RTGS-R683364815-MLHTR DSTRBTRS", "pred": "sales_receipt"}
+{"text": "DIR=debit | AMT=57755 | NARR=NEFT DR-N679562681-CHOPRA ENTE", "pred": "vendor_payment"}
+{"text": "DIR=debit | AMT=33786 | NARR=NEFT DR-N605982704-TRIVEDI PACKA", "pred": "vendor_payment"}
+{"text": "DIR=credit | AMT=203158 | NARR=NEFT CR-N451656515-KHAN FOODS", "pred": "sales_receipt"}
+{"text": "DIR=credit | AMT=63820 | NARR=RTGS-R685633399-DESAI DISTRIBUTORS", "pred": "sales_receipt"}
+{"text": "DIR=credit | AMT=75505 | NARR=NEFT CR-N658696648-TRVD BRTHRS", "pred": "sales_receipt"}
+{"text": "DIR=debit | AMT=29 | NARR=PROCESSING FEE-102206", "pred": "bank_charges"}
+{"text": "DIR=debit | AMT=37553 | NARR=NEFT DR-N333162276-SALARY AUG", "pred": "salary"}
+{"text": "DIR=debit | AMT=59452 | NARR=NEFT DR-N694084973-SALARY MAR", "pred": "salary"}
+{"text": "DIR=debit | AMT=27708 | NARR=RTGS-R569011343-MSHR STL", "pred": "vendor_payment"}
+{"text": "DIR=credit | AMT=18573 | NARR=UPI-SRSH SNH-suresh18@axl-528393496502", "pred": "upi_p2p"}
+{"text": "DIR=credit | AMT=22542 | NARR=REFUND-IRCTC-97324959", "pred": "refund"}
+{"text": "DIR=credit | AMT=188100 | NARR=CASH DEP BY SELF", "pred": "cash_deposit"}
+{"text": "DIR=debit | AMT=116454 | NARR=UPI-JOSHI ENTERP-joshi82@paytm-803966107850-BILL PMT", "pred": "vendor_payment"}
+{"text": "DIR=debit | AMT=39762 | NARR=NEFT DR-N618418606-OFFICE RENT JUL", "pred": "rent"}
+{"text": "DIR=debit | AMT=158161 | NARR=NEFT DR-N223806649-BNSL FDS", "pred": "vendor_payment"}
+{"text": "DIR=credit | AMT=8354 | NARR=NEFT CR-N124408555-AGRWL STL", "pred": "sales_receipt"}
+{"text": "DIR=credit | AMT=97873 | NARR=CHQ DEP-637530-GPT DSTRBTRS", "pred": "sales_receipt"}
+{"text": "DIR=debit | AMT=500 | NARR=NWD-1851787985", "pred": "cash_withdrawal"}
+{"text": "DIR=debit | AMT=46577 | NARR=SWEEP TRF TO FD", "pred": "other"}
+{"text": "DIR=credit | AMT=5237 | NARR=IMPS REV-634768287261-FLIPKART", "pred": "refund"}
+{"text": "DIR=debit | AMT=41451 | NARR=NEFT DR-N366186631-DIVYA SINHA SAL", "pred": "salary"}
+{"text": "DIR=credit | AMT=9731 | NARR=REFUND-AMAZON-55103066", "pred": "refund"}
+{"text": "DIR=debit | AMT=34043 | NARR=NEFT DR-N907558729-SHAH BROTHERS", "pred": "vendor_payment"}
+{"text": "DIR=debit | AMT=81491 | NARR=UPI-KHAN MARKETING-khan36@okhdfcbank-879340581423-PAYMENT", "pred": "vendor_payment"}
+{"text": "DIR=debit | AMT=61507 | NARR=NEFT DR-N883625171-OFFICE RENT APR", "pred": "rent"}
+{"text": "DIR=credit | AMT=123332 | NARR=RTGS-R712505435-DS TRDRS", "pred": "sales_receipt"}
+{"text": "DIR=debit | AMT=17944 | NARR=BBPS-TATA POWER-10428050", "pred": "utility_bill"}
+{"text": "DIR=credit | AMT=30087 | NARR=IMPS-750744401927-CHOPRA TEXT", "pred": "sales_receipt"}
+{"text": "DIR=debit | AMT=17649 | NARR=UPI-SWATI JOS-swati21@okhdfcbank-886864838572-PHONEPE", "pred": "upi_p2p"}
+{"text": "DIR=credit | AMT=98367 | NARR=CHQ DEP-141889-YADAV TEXTILES", "pred": "sales_receipt"}
+{"text": "DIR=debit | AMT=59791 | NARR=UPI-MEENA SHARMA-539183285207-SHOP RENT", "pred": "rent"}
+{"text": "DIR=credit | AMT=71371 | NARR=RTGS-R238941034-AGARWAL WHOLESALE", "pred": "sales_receipt"}
+{"text": "DIR=debit | AMT=18022 | NARR=BILLPAY-LIC OF INDIA-93262984", "pred": "insurance"}
+{"text": "DIR=credit | AMT=13410 | NARR=UPI-CHAWLA TEXTILES-chawla83@axl-557457935503-INV PAYMENT", "pred": "sales_receipt"}
+{"text": "DIR=debit | AMT=42538 | NARR=BY TRANSFER-58568194", "pred": "other"}
+{"text": "DIR=debit | AMT=64067 | NARR=NEFT DR-N911515688-SALARY OCT", "pred": "salary"}
+{"text": "DIR=debit | AMT=68989 | NARR=NEFT DR-N427985626-SALARY AUG", "pred": "salary"}
+{"text": "DIR=credit | AMT=11721 | NARR=REV-UPI-192391730937-AMAZON", "pred": "refund"}
+{"text": "DIR=debit | AMT=11352 | NARR=NACH-STAR HEALTH-PREMIUM", "pred": "insurance"}
+{"text": "DIR=credit | AMT=191107 | NARR=RTGS-R262160941-VERMA DISTRIBUTORS", "pred": "sales_receipt"}
+{"text": "DIR=debit | AMT=57984 | NARR=RTGS-R648944765-PATEL PACKAGING", "pred": "vendor_payment"}
+{"text": "DIR=credit | AMT=19238 | NARR=NEFT CR-N980752567-MLHTR STL", "pred": "sales_receipt"}
+{"text": "DIR=debit | AMT=3802 | NARR=UPI-BEST UNDERT-best@okhdfcbank-966294923625-BILL", "pred": "utility_bill"}
+{"text": "DIR=debit | AMT=51242 | NARR=SAL-STAFF PAYROLL-67495717", "pred": "salary"}
+{"text": "DIR=credit | AMT=145701 | NARR=UPI-PILLAI FABRICS-pillai39@ybl-694367063789-COLLECT", "pred": "sales_receipt"}
+{"text": "DIR=debit | AMT=40326 | NARR=ACH D-ICICI PL-EMI-96611720", "pred": "loan_emi"}
+{"text": "DIR=debit | AMT=570 | NARR=UPI-JIO FIBER-jio@okhdfcbank-428344824756-BILL", "pred": "utility_bill"}
+{"text": "DIR=credit | AMT=28122 | NARR=REV-UPI-151951563323-FLIPKART", "pred": "refund"}
+{"text": "DIR=debit | AMT=16789 | NARR=RENT FEB-SANJAY PATEL", "pred": "rent"}
+{"text": "DIR=credit | AMT=22128 | NARR=REV-UPI-493264480024-ZOMATO", "pred": "refund"}
+{"text": "DIR=debit | AMT=70445 | NARR=NEFT DR-N596412925-OFFICE RENT SEP", "pred": "rent"}
+{"text": "DIR=credit | AMT=5985 | NARR=INTEREST CAPITALISED", "pred": "interest_credit"}
+{"text": "DIR=credit | AMT=134210 | NARR=IMPS-114522257793-DESAI LOGISTICS", "pred": "sales_receipt"}
+{"text": "DIR=credit | AMT=133300 | NARR=CSH DEP-BRANCH-185", "pred": "cash_deposit"}
+{"text": "DIR=debit | AMT=38505 | NARR=ACH D-FULLERTON-EMI-44790509", "pred": "loan_emi"}
+{"text": "DIR=debit | AMT=52323 | NARR=NACH-LIC OF INDIA-PREMIUM", "pred": "insurance"}
+{"text": "DIR=credit | AMT=196080 | NARR=UPI-TRVD AGNCS-trivedi45@ibl-317705428949-COLLECT", "pred": "sales_receipt"}
+{"text": "DIR=credit | AMT=90226 | NARR=IMPS-948248637371-PILLAI TRADE", "pred": "sales_receipt"}
+{"text": "DIR=debit | AMT=48801 | NARR=NEFT DR-N870883944-SALARY AUG", "pred": "salary"}
+{"text": "DIR=debit | AMT=26980 | NARR=BILLPAY-HDFC ERGO-16010119", "pred": "insurance"}
+{"text": "DIR=debit | AMT=15039 | NARR=UPI-DPK CHWL-deepak44@ybl-663284351222-PHONEPE", "pred": "upi_p2p"}
+{"text": "DIR=credit | AMT=121829 | NARR=UPI-MLHTR BRTHRS-malhotra39@paytm-460118731989-COLLECT", "pred": "sales_receipt"}
+{"text": "DIR=debit | AMT=68680 | NARR=RTGS-R992628933-PATEL MO", "pred": "vendor_payment"}
+{"text": "DIR=debit | AMT=134736 | NARR=RTGS-R316086890-SHAH PACKAGING", "pred": "vendor_payment"}
+{"text": "DIR=debit | AMT=175653 | NARR=NEFT DR-N472619843-CHAWLA EXPORTS", "pred": "vendor_payment"}
+{"text": "DIR=debit | AMT=58096 | NARR=SWEEP TRF TO FD", "pred": "other"}
+{"text": "DIR=debit | AMT=50657 | NARR=NEFT DR-N964836016-STAFF PAYROLL", "pred": "salary"}
+{"text": "DIR=credit | AMT=240359 | NARR=IMPS-632310934779-VERMA SWEETS", "pred": "sales_receipt"}
+{"text": "DIR=credit | AMT=149801 | NARR=UPI-BHATT CERAM-bhatt93@okhdfcbank-992981747132-PAYMENT", "pred": "sales_receipt"}
+{"text": "DIR=debit | AMT=58450 | NARR=IMPS-445132744870-NAIR ELE", "pred": "vendor_payment"}
+{"text": "DIR=debit | AMT=153339 | NARR=UPI-JOSHI SUPPLIERS-joshi3@axl-793668048921-PAYMENT", "pred": "vendor_payment"}
+{"text": "DIR=credit | AMT=7445 | NARR=UPI-RATHI IN-rathi77@ybl-803861329973-INV PAYMENT", "pred": "sales_receipt"}
+{"text": "DIR=debit | AMT=27585 | NARR=NACH-LIC OF INDIA-PREMIUM", "pred": "insurance"}
+{"text": "DIR=credit | AMT=93713 | NARR=NEFT CR-N302120097-YDV TRDRS", "pred": "sales_receipt"}
+{"text": "DIR=debit | AMT=50528 | NARR=RTGS-R374026399-BANSAL DISTRIBUTORS", "pred": "vendor_payment"}
+{"text": "DIR=debit | AMT=93018 | NARR=SAL-STAFF PAYROLL-98120648", "pred": "salary"}
+{"text": "DIR=credit | AMT=64223 | NARR=CHQ DEP-982176-SXN PRNTRS", "pred": "sales_receipt"}
+{"text": "DIR=credit | AMT=132598 | NARR=UPI-KHAN BROTHERS-khan67@ibl-193571738529-PAYMENT", "pred": "sales_receipt"}
+{"text": "DIR=debit | AMT=2000 | NARR=ATM WDL-393316-PUNE", "pred": "cash_withdrawal"}
+{"text": "DIR=debit | AMT=23842 | NARR=UPI-ROHAN SINHA-rohan68@ibl-793547291728-SENT", "pred": "upi_p2p"}
+{"text": "DIR=debit | AMT=54291 | NARR=NEFT DR-N676018658-OFFICE RENT SEP", "pred": "rent"}
+{"text": "DIR=credit | AMT=12180 | NARR=UPI RET-311057249068-SWIGGY", "pred": "refund"}
+{"text": "DIR=credit | AMT=3745 | NARR=FD INT-3740840", "pred": "interest_credit"}
+{"text": "DIR=debit | AMT=35775 | NARR=UPI-KAVITA RATHI-658947035337-SHOP RENT", "pred": "rent"}
+{"text": "DIR=debit | AMT=30018 | NARR=RTGS-R383957809-MEHTA DISTRIBUTORS", "pred": "vendor_payment"}
+{"text": "DIR=credit | AMT=19916 | NARR=IMPS-653410432894-KULKARNI PA", "pred": "sales_receipt"}
+{"text": "DIR=credit | AMT=145573 | NARR=UPI-PATEL EXP-patel13@okhdfcbank-325633963608-PAYMENT", "pred": "sales_receipt"}
+{"text": "DIR=credit | AMT=173742 | NARR=CHQ DEP-286464-SHAH PAPERS", "pred": "sales_receipt"}
+{"text": "DIR=credit | AMT=199886 | NARR=RTGS-R983271755-RTH ELCTRNCS", "pred": "sales_receipt"}
+{"text": "DIR=debit | AMT=20216 | NARR=ECS-AXIS LOAN-LOAN 992060", "pred": "loan_emi"}
+{"text": "DIR=debit | AMT=8346 | NARR=BILLPAY-MAHANAGAR GAS-ELEC-7581369", "pred": "utility_bill"}
+{"text": "DIR=debit | AMT=89171 | NARR=GST PMT-12739054209", "pred": "gst_tds_payment"}
+{"text": "DIR=credit | AMT=243575 | NARR=NEFT CR-N448287242-DAS MOTORS", "pred": "sales_receipt"}
+{"text": "DIR=credit | AMT=200 | NARR=UPI-SWATI CHAWLA-swati85@paytm-120431211881-PAYMENT", "pred": "upi_p2p"}
+{"text": "DIR=debit | AMT=11685 | NARR=BILLPAY-AIRTEL-BILL-8155908", "pred": "utility_bill"}
+{"text": "DIR=credit | AMT=23045 | NARR=IMPS REV-169901959237-FLIPKART", "pred": "refund"}
+{"text": "DIR=debit | AMT=14897 | NARR=UPI-ADANI ELEC-adani@okicici-360036718396-BILL", "pred": "utility_bill"}
+{"text": "DIR=debit | AMT=96363 | NARR=UPI-SHAH PLYMRS-shah92@ibl-375435000459-PAYMENT", "pred": "vendor_payment"}
+{"text": "DIR=credit | AMT=117000 | NARR=CDM DEPOSIT-809004", "pred": "cash_deposit"}
+{"text": "DIR=debit | AMT=50982 | NARR=ECS-BAJAJ FINANCE-LOAN 631316", "pred": "loan_emi"}
+{"text": "DIR=debit | AMT=1462 | NARR=BILLPAY-BEST UNDERT-ELEC-4101100", "pred": "utility_bill"}
+{"text": "DIR=debit | AMT=6125 | NARR=ACH D-HDFC BANK LOAN-EMI-87000815", "pred": "loan_emi"}
+{"text": "DIR=debit | AMT=416 | NARR=UPI-PRIYA CH-priya19@ybl-104607209855-GPAY", "pred": "upi_p2p"}
+{"text": "DIR=credit | AMT=16210 | NARR=RTGS-R387674380-TRIVEDI HARDWARE", "pred": "sales_receipt"}
+{"text": "DIR=debit | AMT=125243 | NARR=UPI-DAS MARKETING-das93@okhdfcbank-335897780638-BILL PMT", "pred": "vendor_payment"}
+{"text": "DIR=debit | AMT=178446 | NARR=IMPS-316178640894-NAIR POLY", "pred": "vendor_payment"}
+{"text": "DIR=debit | AMT=66624 | NARR=NEFT DR-N998475164-REDDY FABRICS", "pred": "vendor_payment"}
+{"text": "DIR=debit | AMT=52223 | NARR=SAL-PRIYA SAXENA SAL-39919367", "pred": "salary"}
+{"text": "DIR=debit | AMT=48561 | NARR=NEFT DR-N214131975-TRIVEDI SWEETS", "pred": "vendor_payment"}
+{"text": "DIR=credit | AMT=97000 | NARR=CASH DEP BY SELF", "pred": "cash_deposit"}
+{"text": "DIR=debit | AMT=103472 | NARR=IMPS-377192401413-KULKARNI STATIONERS", "pred": "vendor_payment"}
+{"text": "DIR=debit | AMT=103023 | NARR=IMPS-743524975106-BHTT ELCTRNCS", "pred": "vendor_payment"}
+{"text": "DIR=debit | AMT=19947 | NARR=NACH-LIC OF INDIA-PREMIUM", "pred": "insurance"}
+{"text": "DIR=debit | AMT=59 | NARR=PROCESSING FEE-693854", "pred": "bank_charges"}
+{"text": "DIR=debit | AMT=15224 | NARR=RENT JUL-RITU SHARMA", "pred": "rent"}
+{"text": "DIR=debit | AMT=31368 | NARR=SAL-SANJAY JOSHI SAL-21815473", "pred": "salary"}
+{"text": "DIR=debit | AMT=66966 | NARR=SAL-ROHAN PILLAI SAL-91404862", "pred": "salary"}
+{"text": "DIR=credit | AMT=205643 | NARR=IMPS-839589533615-CHOPRA SW", "pred": "sales_receipt"}
+{"text": "DIR=debit | AMT=7296 | NARR=UPI-SRSH IYER-suresh52@axl-329681318184-SENT", "pred": "upi_p2p"}
+{"text": "DIR=credit | AMT=21243 | NARR=UPI-VKS CHPR-vikas8@ybl-838280053573-PHONEPE", "pred": "upi_p2p"}
+{"text": "DIR=debit | AMT=73145 | NARR=EPAYMENT-CBIC-GST", "pred": "gst_tds_payment"}
+{"text": "DIR=debit | AMT=7540 | NARR=UPI-BEST UNDERT-best@okhdfcbank-660458569752-BILL", "pred": "utility_bill"}
+{"text": "DIR=debit | AMT=123932 | NARR=RTGS-R744712853-REDDY WHOLESALE", "pred": "vendor_payment"}
+{"text": "DIR=credit | AMT=50500 | NARR=CSH DEP-BRANCH-367", "pred": "cash_deposit"}
+{"text": "DIR=credit | AMT=17717 | NARR=NEFT CR-N581918158-SHAH ELECT", "pred": "sales_receipt"}
+{"text": "DIR=credit | AMT=90091 | NARR=RTGS-R199970392-DESAI BROTHERS", "pred": "sales_receipt"}
+{"text": "DIR=credit | AMT=207732 | NARR=UPI-SINHA EXPORTS-sinha77@axl-408397866591-PAYMENT", "pred": "sales_receipt"}
+{"text": "DIR=debit | AMT=12144 | NARR=BILLPAY-MSEDCL-BILL-7891675", "pred": "utility_bill"}
+{"text": "DIR=debit | AMT=16853 | NARR=BBPS-ADANI ELEC-93376268", "pred": "utility_bill"}
+{"text": "DIR=credit | AMT=172935 | NARR=RTGS-R966616964-SNH HRDWR", "pred": "sales_receipt"}
+{"text": "DIR=debit | AMT=189899 | NARR=ADVANCE TAX-9205877", "pred": "gst_tds_payment"}
+{"text": "DIR=debit | AMT=37328 | NARR=RENT FEB-RAHUL SAXENA", "pred": "rent"}
+{"text": "DIR=credit | AMT=28827 | NARR=UPI RET-778763727477-FLIPKART", "pred": "refund"}
+{"text": "DIR=credit | AMT=21803 | NARR=POS 714953 CROMA", "pred": "other"}
+{"text": "DIR=debit | AMT=102336 | NARR=UPI-GUPTA SWEETS-gupta56@oksbi-600833703516-PAYMENT", "pred": "vendor_payment"}
+{"text": "DIR=credit | AMT=247875 | NARR=CHQ DEP-825196-NAIR DISTRIBUTORS", "pred": "sales_receipt"}
+{"text": "DIR=debit | AMT=53922 | NARR=UPI-SXN DSTRBTRS-saxena34@okhdfcbank-361532199588-PURCHASE", "pred": "vendor_payment"}
+{"text": "DIR=credit | AMT=7446 | NARR=INTEREST CAPITALISED", "pred": "interest_credit"}
+{"text": "DIR=credit | AMT=165094 | NARR=NEFT CR-N382938907-KHAN INDUST", "pred": "sales_receipt"}
+{"text": "DIR=debit | AMT=36632 | NARR=SAL-DEEPAK CHOPRA SAL-26438470", "pred": "salary"}
+{"text": "DIR=credit | AMT=25380 | NARR=BY TRANSFER-63326888", "pred": "other"}
+{"text": "DIR=debit | AMT=249240 | NARR=TDS PAYMENT CBDT-35484729", "pred": "gst_tds_payment"}
+{"text": "DIR=debit | AMT=16348 | NARR=NEFT DR-N353594771-SALARY FEB", "pred": "salary"}
+{"text": "DIR=debit | AMT=254776 | NARR=GST PMT-22498156571", "pred": "gst_tds_payment"}
+{"text": "DIR=debit | AMT=295935 | NARR=GSTN PAYMENT 80024418", "pred": "gst_tds_payment"}
+{"text": "DIR=debit | AMT=50147 | NARR=RTGS-R342623109-KHAN FBRCS", "pred": "vendor_payment"}
+{"text": "DIR=debit | AMT=153813 | NARR=UPI-CHOPRA STEEL-chopra78@ibl-804159331284-PAYMENT", "pred": "vendor_payment"}
+{"text": "DIR=credit | AMT=148254 | NARR=NEFT CR-N621175333-MHT TRDRS", "pred": "sales_receipt"}
+{"text": "DIR=debit | AMT=48713 | NARR=BILLPAY-SBI LIFE-84481853", "pred": "insurance"}
+{"text": "DIR=debit | AMT=149349 | NARR=GST PMT-85165520856", "pred": "gst_tds_payment"}
+{"text": "DIR=credit | AMT=15306 | NARR=IMPS REV-789930559477-AGARWAL PRINTERS", "pred": "refund"}
+{"text": "DIR=debit | AMT=2332 | NARR=BILLPAY-MSEDCL-ELEC-2043031", "pred": "utility_bill"}
+{"text": "DIR=debit | AMT=5681 | NARR=NACH-HDFC BANK LOAN-59306884", "pred": "loan_emi"}
+{"text": "DIR=debit | AMT=43643 | NARR=NEFT DR-N490252482-CHOPRA TEXTILES", "pred": "vendor_payment"}
+{"text": "DIR=debit | AMT=18427 | NARR=BY TRANSFER-99763762", "pred": "other"}
+{"text": "DIR=debit | AMT=20185 | NARR=NEFT DR-N345698449-VIKAS JOSHI SAL", "pred": "salary"}
+{"text": "DIR=debit | AMT=66132 | NARR=RENT OCT-AMIT DS", "pred": "rent"}
+{"text": "DIR=credit | AMT=34475 | NARR=POS 504617 DMART", "pred": "other"}
+{"text": "DIR=credit | AMT=196712 | NARR=UPI-DAS ELEC-das72@paytm-588926711658-COLLECT", "pred": "sales_receipt"}
+{"text": "DIR=debit | AMT=17834 | NARR=RTGS-R689794359-NAIR HARDWARE", "pred": "vendor_payment"}
+{"text": "DIR=credit | AMT=151097 | NARR=RTGS-R197148720-AGARWAL CERAMICS", "pred": "sales_receipt"}
+{"text": "DIR=debit | AMT=329651 | NARR=GST PMT-87809748772", "pred": "gst_tds_payment"}
+{"text": "DIR=debit | AMT=11873 | NARR=RTGS-R738496670-SINHA AGENCIES", "pred": "vendor_payment"}
+{"text": "DIR=debit | AMT=8252 | NARR=RENT AUG-AJAY VRM", "pred": "rent"}
+{"text": "DIR=debit | AMT=11964 | NARR=BILLPAY-MAHANAGAR GAS-RECHARGE-7969901", "pred": "utility_bill"}
+{"text": "DIR=credit | AMT=41634 | NARR=REV-UPI-827623838231-ZOMATO", "pred": "refund"}
+{"text": "DIR=debit | AMT=55908 | NARR=ECS-HDFC BANK LOAN-LOAN 992129", "pred": "loan_emi"}
+{"text": "DIR=debit | AMT=11112 | NARR=UPI-SURESH PATEL-suresh83@oksbi-669117455228", "pred": "upi_p2p"}
+{"text": "DIR=credit | AMT=98459 | NARR=IMPS-189332111762-VRM SPPLRS", "pred": "sales_receipt"}
+{"text": "DIR=debit | AMT=10394 | NARR=ECS-AXIS LOAN-LOAN 105980", "pred": "loan_emi"}
+{"text": "DIR=debit | AMT=71242 | NARR=IMPS-973404496638-DAS CHEMICALS", "pred": "vendor_payment"}
+{"text": "DIR=credit | AMT=28852 | NARR=POS 491616 DMART", "pred": "other"}
+{"text": "DIR=credit | AMT=115985 | NARR=UPI-KULKARNI INDUSTRIES-kulkarni44@ibl-793064802436-INV PAYMENT", "pred": "sales_receipt"}
+{"text": "DIR=debit | AMT=10668 | NARR=ACH D-HDFC ERGO-29252803", "pred": "insurance"}
+{"text": "DIR=debit | AMT=6530 | NARR=BILLPAY-LIC OF INDIA-94647039", "pred": "insurance"}
+{"text": "DIR=credit | AMT=2591 | NARR=UPI-SRSH YDV-suresh37@okhdfcbank-840447768935-PAYMENT", "pred": "upi_p2p"}
+{"text": "DIR=debit | AMT=243784 | NARR=GST PMT-90498142462", "pred": "gst_tds_payment"}
+{"text": "DIR=credit | AMT=26778 | NARR=REFUND-FLIPKART-51404738", "pred": "refund"}
+{"text": "DIR=debit | AMT=83626 | NARR=UPI-SHARMA TRANSPORT-sharma15@ibl-810359924688-PURCHASE", "pred": "vendor_payment"}
+{"text": "DIR=debit | AMT=21462 | NARR=UPI-AMIT BHATT-610622551174-SHOP RENT", "pred": "rent"}
+{"text": "DIR=credit | AMT=107822 | NARR=UPI-YADAV DISTRIBUTORS-yadav6@okhdfcbank-973691863933-PAYMENT", "pred": "sales_receipt"}
+{"text": "DIR=debit | AMT=4227 | NARR=ACH D-TATA CAPITAL-EMI-38613502", "pred": "loan_emi"}
+{"text": "DIR=debit | AMT=4475 | NARR=NACH-MAX LIFE-PREMIUM", "pred": "insurance"}
+{"text": "DIR=debit | AMT=47256 | NARR=NACH-TATA CAPITAL-52773214", "pred": "loan_emi"}
+{"text": "DIR=debit | AMT=17084 | NARR=UPI-PRIYA JOSHI-priya3@okhdfcbank-924255491632", "pred": "upi_p2p"}
+{"text": "DIR=debit | AMT=55343 | NARR=BILLPAY-ICICI LOMBARD-48649402", "pred": "insurance"}
+{"text": "DIR=credit | AMT=6902 | NARR=INTEREST CAPITALISED", "pred": "interest_credit"}
+{"text": "DIR=debit | AMT=48622 | NARR=CLG-800391", "pred": "other"}
+{"text": "DIR=credit | AMT=28655 | NARR=REFUND-IRCTC-19998825", "pred": "refund"}
+{"text": "DIR=debit | AMT=143744 | NARR=GST PMT-23059874843", "pred": "gst_tds_payment"}
+{"text": "DIR=debit | AMT=236 | NARR=PROCESSING FEE-203698", "pred": "bank_charges"}
+{"text": "DIR=debit | AMT=108504 | NARR=RTGS-R146914391-TRIVEDI WHOLESALE", "pred": "vendor_payment"}
+{"text": "DIR=credit | AMT=18185 | NARR=UPI-RHL IYER-rahul43@ybl-936215711807-PAYMENT", "pred": "upi_p2p"}
+{"text": "DIR=credit | AMT=4960 | NARR=SWEEP TRF TO FD", "pred": "other"}
