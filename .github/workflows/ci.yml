@@ -1,0 +1,23 @@
+name: ci
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+jobs:
+  test-and-eval:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+      - name: Unit tests (30, deterministic, no API keys)
+        run: python -m pytest -q
+      - name: Generate synthetic ground truth
+        run: python cli.py generate --months 10 --out data/synth
+      - name: Matching eval gate (holdout m08-m10, P>=0.98 R>=0.90)
+        run: python scripts/ci_eval_gate.py
