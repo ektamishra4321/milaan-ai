@@ -1,4 +1,6 @@
 # MilaanAI — UPI/Bank-Statement Reconciliation Agent for Indian CA Firms
+![CI](https://github.com/ektamishra4321/milaan-ai/actions/workflows/ci.yml/badge.svg)
+![Python](https://img.shields.io/badge/python-3.10%2B-blue)
 
 🔴 **Live demo:** https://milaan-ai.onrender.com
 
@@ -72,4 +74,4 @@ webapp.py          Flask live demo (deterministic path, no keys needed)
 .github/workflows/ CI: pytest + holdout eval gate on every push
 ```
 
-Built by Ekta Mishra, 2026. PRD and build notes in `docs/`.
+Built by Ekta Mishra, 2026. Fine-tuning notebooks in `notebooks/`.
